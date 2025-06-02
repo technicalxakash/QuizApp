@@ -1,0 +1,452 @@
+[
+    {
+        "question": "Which of the following is used to declare a function prototype?",
+        "options": ["void func();", "func void();", "void func;", "func();"],
+        "answer": 0
+    },
+    {
+        "question": "What is the output of printf(\"%d\", '0');?",
+        "options": ["0", "48", "Error", "None"],
+        "answer": 1
+    },
+    {
+        "question": "What is the correct syntax for the main function in a C program?",
+        "options": ["void main()", "int main()", "main()", "int main(void)"],
+        "answer": 1
+    },
+    {
+        "question": "Which header file is required for input/output operations in C?",
+        "options": ["<stdlib.h>", "<math.h>", "<stdio.h>", "<string.h>"],
+        "answer": 2
+    },
+    {
+        "question": "What is the size of a float data type on a 32-bit system?",
+        "options": ["2 bytes", "4 bytes", "8 bytes", "16 bytes"],
+        "answer": 1
+    },
+    {
+        "question": "Which data type is used to store a single character in C?",
+        "options": ["int", "float", "char", "double"],
+        "answer": 2
+    },
+    {
+        "question": "What is the output of the expression 10 / 3 in C?",
+        "options": ["3.33", "3", "4", "Error"],
+        "answer": 1
+    },
+    {
+        "question": "Which operator is used to access the memory address of a variable?",
+        "options": ["*", "&", "%", "/"],
+        "answer": 1
+    },
+    {
+        "question": "What is the format specifier for a double in printf()?",
+        "options": ["%d", "%f", "%c", "%s"],
+        "answer": 1
+    },
+    {
+        "question": "Which function is used to read a string from standard input?",
+        "options": ["scanf()", "gets()", "getchar()", "printf()"],
+        "answer": 1
+    },
+    {
+        "question": "Which statement is used to exit a loop in C?",
+        "options": ["continue", "break", "return", "exit"],
+        "answer": 1
+    },
+    {
+        "question": "Which loop executes at least once in C?",
+        "options": ["for", "while", "do-while", "none"],
+        "answer": 2
+    },
+    {
+        "question": "What is the output of the following code? int x = 5; printf(\"%d\", ++x);",
+        "options": ["5", "6", "4", "Error"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a relational operator in C?",
+        "options": ["&&", "||", ">=", "!"],
+        "answer": 2
+    },
+    {
+        "question": "What is the output of the code: int a = 10; if(a > 5) printf(\"Yes\"); else printf(\"No\");",
+        "options": ["Yes", "No", "Error", "None"],
+        "answer": 0
+    },
+    {
+        "question": "Which keyword is used to define a constant in C?",
+        "options": ["const", "static", "volatile", "define"],
+        "answer": 0
+    },
+    {
+        "question": "What is the correct way to declare a 1D array of 5 integers?",
+        "options": ["int arr[5];", "int arr(5);", "array int[5];", "int[5] arr;"],
+        "answer": 0
+    },
+    {
+        "question": "What is the index of the first element in an array in C?",
+        "options": ["1", "0", "-1", "2"],
+        "answer": 1
+    },
+    {
+        "question": "Which function is used to find the length of a string in C?",
+        "options": ["strlen()", "strcpy()", "strcat()", "strcmp()"],
+        "answer": 0
+    },
+    {
+        "question": "What is the time complexity of bubble sort in the worst case?",
+        "options": ["O(n)", "O(n log n)", "O(n^2)", "O(1)"],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is a valid variable name in C?",
+        "options": ["2var", "var_2", "var-2", "var#2"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of printf(\"%d\", sizeof(int)); on a 32-bit system?",
+        "options": ["2", "4", "8", "16"],
+        "answer": 1
+    },
+    {
+        "question": "Which operator has the highest precedence in C?",
+        "options": ["+", "*", "==", "&&"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int x = 3; x *= 2; printf(\"%d\", x);",
+        "options": ["3", "6", "5", "9"],
+        "answer": 1
+    },
+    {
+        "question": "Which function is used to print a single character in C?",
+        "options": ["printf()", "putchar()", "scanf()", "getchar()"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int i = 0; while(i < 3) { printf(\"%d \", i); i++; }",
+        "options": ["0 1 2", "1 2 3", "0 1", "Error"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is used to terminate a C program?",
+        "options": ["break", "return 0;", "exit()", "stop"],
+        "answer": 1
+    },
+    {
+        "question": "What is the discriminant formula for a quadratic equation ax^2 + bx + c = 0?",
+        "options": ["b^2 - 4ac", "b^2 + 4ac", "4ac - b^2", "b - 4ac"],
+        "answer": 0
+    },
+    {
+        "question": "What is the formula for binomial coefficient nCr?",
+        "options": ["n! / (r! * (n-r)!)", "n! / r!", "n! / (n-r)!)", "n! * r!"],
+        "answer": 0
+    },
+    {
+        "question": "How many rows are printed in Pascal’s triangle for n=4?",
+        "options": ["3", "4", "5", "6"],
+        "answer": 1
+    },
+    {
+        "question": "What is the correct way to declare a 2D array of size 3x3 in C?",
+        "options": ["int arr[3][3];", "int arr(3,3);", "int arr[3,3];", "array int[3][3];"],
+        "answer": 0
+    },
+    {
+        "question": "What is the time complexity of linear search in the worst case?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following correctly initializes a string in C?",
+        "options": ["char str[] = \"Hello\";", "char str = \"Hello\";", "string str = \"Hello\";", "char str[] = 'Hello';"],
+        "answer": 0
+    },
+    {
+        "question": "What is the output of the code: char str[] = \"Hello\"; printf(\"%s\", str);",
+        "options": ["Hello", "H", "Error", "None"],
+        "answer": 0
+    },
+    {
+        "question": "Which sorting algorithm repeatedly swaps adjacent elements if they are in the wrong order?",
+        "options": ["Selection Sort", "Bubble Sort", "Linear Search", "Binary Search"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int arr[3] = {1, 2, 3}; printf(\"%d\", arr[1]);",
+        "options": ["1", "2", "3", "Error"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a logical operator in C?",
+        "options": ["+", "%", "&&", ">="],
+        "answer": 2
+    },
+    {
+        "question": "What is the output of the code: int x = 10; if(x == 10) printf(\"Equal\");",
+        "options": ["Equal", "No output", "Error", "10"],
+        "answer": 0
+    },
+    {
+        "question": "Which loop is best suited for iterating over a fixed number of iterations?",
+        "options": ["while", "do-while", "for", "none"],
+        "answer": 2
+    },
+    {
+        "question": "What is the output of the code: int i; for(i=0; i<4; i++) printf(\"%d \", i);",
+        "options": ["0 1 2 3", "1 2 3 4", "0 1 2", "Error"],
+        "answer": 0
+    },
+    {
+        "question": "Which function is used to copy one string to another in C?",
+        "options": ["strcat()", "strcmp()", "strcpy()", "strlen()"],
+        "answer": 2
+    },
+    {
+        "question": "What is the output of the code: int x = 5; printf(\"%d\", x++);",
+        "options": ["5", "6", "4", "Error"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is used to include the math library in C?",
+        "options": ["<stdio.h>", "<math.h>", "<string.h>", "<stdlib.h>"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int x = 7; printf(\"%d\", x%2);",
+        "options": ["0", "1", "2", "7"],
+        "answer": 1
+    },
+    {
+        "question": "Which statement is used to skip the current iteration of a loop?",
+        "options": ["break", "continue", "return", "exit"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int arr[2][2] = {{1,2},{3,4}}; printf(\"%d\", arr[1][0]);",
+        "options": ["1", "2", "3", "4"],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is a valid way to initialize a 1D array in C?",
+        "options": ["int arr[] = {1,2,3};", "int arr[3] = {1,2,3,4};", "int arr[] = [1,2,3];", "int arr(3) = {1,2,3};"],
+        "answer": 0
+    },
+    {
+        "question": "What is the time complexity of selection sort in the worst case?",
+        "options": ["O(n)", "O(n log n)", "O(n^2)", "O(1)"],
+        "answer": 2
+    },
+    {
+        "question": "Which function is used to concatenate two strings in C?",
+        "options": ["strcat()", "strcpy()", "strcmp()", "strlen()"],
+        "answer": 0
+    },
+    {
+        "question": "What is the output of the code: char str[] = \"Test\"; printf(\"%c\", str[1]);",
+        "options": ["T", "e", "s", "t"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a correct comment syntax in C?",
+        "options": ["// Comment", "# Comment", "<!-- Comment -->", "/* Comment"],
+        "answer": 0
+    },
+    {
+        "question": "What is the output of the code: int x = 10; x = x + 5; printf(\"%d\", x);",
+        "options": ["10", "15", "5", "Error"],
+        "answer": 1
+    },
+    {
+        "question": "Which keyword is used to define a global variable in C?",
+        "options": ["static", "extern", "const", "volatile"],
+        "answer":  1
+    },
+    {
+        "question": "What is the output of the code: int i = 0; do { printf(\"%d \", i); i++; } while(i < 3);",
+        "options": ["0 1 2", "1 2 3", "0 1", "Error"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is used to compare two strings in C?",
+        "options": ["strcat()", "strcmp()", "strcpy()", "strlen()"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int x = 3; if(x > 5) printf(\"High\"); else printf(\"Low\");",
+        "options": ["High", "Low", "Error", "None"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a bitwise operator in C?",
+        "options": ["&&", "||", "&", "=="],
+        "answer": 2
+    },
+    {
+        "question": "What is the output of the code: int arr[3] = {10, 20, 30}; printf(\"%d\", arr[2]);",
+        "options": ["10", "20", "30", "Error"],
+        "answer": 2
+    },
+    {
+        "question": "Which function is used to read a single character from input?",
+        "options": ["scanf()", "getchar()", "printf()", "putchar()"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int x = 4; printf(\"%d\", x/2);",
+        "options": ["2", "2.0", "4", "Error"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following declares a pointer in C?",
+        "options": ["int ptr;", "int *ptr;", "int &ptr;", "ptr int;"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int i; for(i=5; i>0; i--) printf(\"%d \", i);",
+        "options": ["5 4 3 2 1", "1 2 3 4 5", "4 3 2 1 0", "Error"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is a valid string declaration in C?",
+        "options": ["char str[] = \"Hello\";", "string str = \"Hello\";", "char str = \"Hello\";", "char str[] = 'Hello';"],
+        "answer": 0
+    },
+    {
+        "question": "What is the output of the code: int x = 8; printf(\"%d\", x>>1);",
+        "options": ["4", "8", "16", "2"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is used to dynamically allocate memory in C?",
+        "options": ["malloc()", "calloc()", "realloc()", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "What is the output of the code: int x = 5; if(x != 5) printf(\"Not equal\"); else printf(\"Equal\");",
+        "options": ["Not equal", "Equal", "Error", "None"],
+        "answer": 1
+    },
+    {
+        "question": "Which loop is used when the number of iterations is unknown?",
+        "options": ["for", "while", "do-while", "none"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int arr[2][2] = {{1,2},{3,4}}; printf(\"%d\", arr[0][1]);",
+        "options": ["1", "2", "3", "4"],
+        "answer": 1
+    },
+    {
+        "question": "Which algorithm finds the smallest element in each iteration and places it at the beginning?",
+        "options": ["Bubble Sort", "Selection Sort", "Linear Search", "Binary Search"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: char str[] = \"C\"; printf(\"%s\", str);",
+        "options": ["C", "Error", "None", "0"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is a valid way to initialize a 2D array in C?",
+        "options": ["int arr[][] = {{1,2},{3,4}};", "int arr[2][2] = {{1,2},{3,4}};", "int arr(2,2) = {{1,2},{3,4}};", "int arr[2,2] = {{1,2},{3,4}};"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int x = 10; printf(\"%d\", x%3);",
+        "options": ["0", "1", "2", "3"],
+        "answer": 1
+    },
+    {
+        "question": "Which function is used to free dynamically allocated memory in C?",
+        "options": ["free()", "delete()", "clear()", "remove()"],
+        "answer": 0
+    },
+    {
+        "question": "What is the output of the code: int i = 1; while(i <= 3) { printf(\"%d \", i); i++; }",
+        "options": ["1 2 3", "1 2", "2 3", "Error"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is a correct way to declare a constant in C?",
+        "options": ["const int x = 5;", "int const x = 5;", "const x = 5;", "Both a and b"],
+        "answer": 3
+    },
+    {
+        "question": "What is the output of the code: int x = 6; printf(\"%d\", x<<1);",
+        "options": ["6", "12", "3", "Error"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is used to read a formatted input in C?",
+        "options": ["printf()", "scanf()", "getchar()", "putchar()"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int x = 10; if(x >= 10) printf(\"True\"); else printf(\"False\");",
+        "options": ["True", "False", "Error", "None"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is a valid way to pass an array to a function in C?",
+        "options": ["void func(int arr[]);", "void func(int arr);", "void func(array arr);", "void func(int arr[][]);"],
+        "answer": 0
+    },
+    {
+        "question": "What is the output of the code: int arr[3] = {5, 10, 15}; printf(\"%d\", arr[0]);",
+        "options": ["5", "10", "15", "Error"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is used to include the standard library in C?",
+        "options": ["<stdio.h>", "<stdlib.h>", "<string.h>", "<math.h>"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int x = 3; printf(\"%d\", x*2 + 1);",
+        "options": ["6", "7", "8", "Error"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following correctly declares a string in C?",
+        "options": ["char str[] = \"Test\";", "string str = \"Test\";", "char str = \"Test\";", "char str[] = 'Test';"],
+        "answer": 0
+    },
+    {
+        "question": "What is the output of the code: int i; for(i=1; i<=5; i+=2) printf(\"%d \", i);",
+        "options": ["1 3 5", "1 2 3 4 5", "2 4", "Error"],
+        "answer": 0
+    },
+    {
+        "question": "Which function is used to compare two strings lexicographically in C?",
+        "options": ["strcat()", "strcmp()", "strcpy()", "strlen()"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int x = 5; printf(\"%d\", x/2.0);",
+        "options": ["2", "2.5", "3", "Error"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a valid way to initialize a constant in C?",
+        "options": ["const int x = 10;", "int x = 10; const;", "const x = 10;", "int const x = 10; const;"],
+        "answer": 0
+    },
+    {
+        "question": "What is the output of the code: char str[] = \"Hello\"; printf(\"%c\", str[4]);",
+        "options": ["o", "l", "H", "Error"],
+        "answer": 0
+    },
+    {
+        "question": "Which sorting algorithm has the best average-case time complexity among bubble sort, selection sort, and linear search?",
+        "options": ["Bubble Sort", "Selection Sort", "Linear Search", "None"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the code: int x = 10; printf(\"%d\", x > 5 ? x : 5);",
+        "options": ["5", "10", "Error", "None"],
+        "answer": 1
+    }
+]

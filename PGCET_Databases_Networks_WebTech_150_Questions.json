@@ -1,0 +1,552 @@
+[
+    {
+        "question": "What does the ER model represent in a database?",
+        "options": ["Entity-Relationship", "Extended Relation", "Entity-Record", "External Reference"],
+        "answer": 0
+    },
+    {
+        "question": "Which relational algebra operation selects specific tuples?",
+        "options": ["Projection", "Selection", "Union", "Join"],
+        "answer": 1
+    },
+    {
+        "question": "In tuple calculus, what represents a condition on tuples?",
+        "options": ["Formula", "Query", "Attribute", "Relation"],
+        "answer": 0
+    },
+    {
+        "question": "Which integrity constraint ensures unique values in a column?",
+        "options": ["Primary Key", "Foreign Key", "Check", "Not Null"],
+        "answer": 0
+    },
+    {
+        "question": "Which normal form eliminates transitive dependencies?",
+        "options": ["1NF", "2NF", "3NF", "BCNF"],
+        "answer": 2
+    },
+    {
+        "question": "Which SQL clause filters rows after grouping?",
+        "options": ["WHERE", "HAVING", "GROUP BY", "ORDER BY"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of indexing in a database?",
+        "options": ["Increase storage", "Speed up queries", "Ensure integrity", "Manage transactions"],
+        "answer": 1
+    },
+    {
+        "question": "Which file structure is used in B+ trees?",
+        "options": ["Sequential", "Indexed", "Hashed", "Clustered"],
+        "answer": 1
+    },
+    {
+        "question": "What ensures atomicity in database transactions?",
+        "options": ["Concurrency control", "ACID properties", "Indexing", "Normalization"],
+        "answer": 1
+    },
+    {
+        "question": "Which concurrency control mechanism uses timestamps?",
+        "options": ["Locking", "Timestamp ordering", "Two-phase commit", "MVCC"],
+        "answer": 1
+    },
+    {
+        "question": "Which relational algebra operation combines two relations?",
+        "options": ["Selection", "Projection", "Join", "Difference"],
+        "answer": 2
+    },
+    {
+        "question": "What does a foreign key constraint ensure?",
+        "options": ["Uniqueness", "Referential integrity", "Non-null values", "Primary key"],
+        "answer": 1
+    },
+    {
+        "question": "Which normal form requires all attributes to depend on the entire key?",
+        "options": ["1NF", "2NF", "3NF", "BCNF"],
+        "answer": 2
+    },
+    {
+        "question": "Which SQL command modifies existing data in a table?",
+        "options": ["INSERT", "UPDATE", "DELETE", "SELECT"],
+        "answer": 1
+    },
+    {
+        "question": "What is the height of a B+ tree with n keys and order m?",
+        "options": ["log_m(n)", "log_n(m)", "n/m", "m/n"],
+        "answer": 0
+    },
+    {
+        "question": "Which transaction property ensures data consistency?",
+        "options": ["Atomicity", "Consistency", "Isolation", "Durability"],
+        "answer": 1
+    },
+    {
+        "question": "Which locking mechanism prevents other transactions from reading?",
+        "options": ["Shared lock", "Exclusive lock", "Read lock", "Write lock"],
+        "answer": 1
+    },
+    {
+        "question": "What does the ER diagram’s diamond represent?",
+        "options": ["Entity", "Attribute", "Relationship", "Key"],
+        "answer": 2
+    },
+    {
+        "question": "Which SQL function counts the number of rows?",
+        "options": ["SUM", "AVG", "COUNT", "MAX"],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a clustered index?",
+        "options": ["Sort data physically", "Store data sequentially", "Reduce redundancy", "Ensure uniqueness"],
+        "answer": 0
+    },
+    {
+        "question": "Which OSI layer is responsible for routing?",
+        "options": ["Data Link", "Network", "Transport", "Application"],
+        "answer": 1
+    },
+    {
+        "question": "Which encoding scheme uses two voltage levels?",
+        "options": ["NRZ", "Manchester", "Differential Manchester", "Bipolar"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of the sliding window protocol?",
+        "options": ["Error detection", "Flow control", "Routing", "Encryption"],
+        "answer": 1
+    },
+    {
+        "question": "Which LAN architecture uses a shared medium?",
+        "options": ["Bus", "Ring", "Star", "Mesh"],
+        "answer": 0
+    },
+    {
+        "question": "What is the maximum data rate of Fast Ethernet?",
+        "options": ["10 Mbps", "100 Mbps", "1 Gbps", "10 Gbps"],
+        "answer": 1
+    },
+    {
+        "question": "Which routing protocol uses distance-vector routing?",
+        "options": ["OSPF", "BGP", "RIP", "EIGRP"],
+        "answer": 2
+    },
+    {
+        "question": "What is the primary function of packet switching?",
+        "options": ["Circuit establishment", "Data segmentation", "Error correction", "Flow control"],
+        "answer": 1
+    },
+    {
+        "question": "Which network device operates at the Data Link layer?",
+        "options": ["Router", "Switch", "Gateway", "Hub"],
+        "answer": 1
+    },
+    {
+        "question": "What is the main difference between TCP and UDP?",
+        "options": ["TCP is faster", "UDP is connection-oriented", "TCP is reliable", "UDP is reliable"],
+        "answer": 2
+    },
+    {
+        "question": "Which application layer protocol is used for email transfer?",
+        "options": ["HTTP", "SMTP", "FTP", "DNS"],
+        "answer": 1
+    },
+    {
+        "question": "Which security mechanism ensures data confidentiality?",
+        "options": ["Authentication", "Encryption", "Integrity", "Authorization"],
+        "answer": 1
+    },
+    {
+        "question": "Which OSI layer handles data encryption?",
+        "options": ["Physical", "Data Link", "Presentation", "Application"],
+        "answer": 2
+    },
+    {
+        "question": "What is the frame size in Ethernet?",
+        "options": ["64-1500 bytes", "32-1000 bytes", "128-2000 bytes", "256-3000 bytes"],
+        "answer": 0
+    },
+    {
+        "question": "Which protocol resolves domain names to IP addresses?",
+        "options": ["HTTP", "SMTP", "DNS", "FTP"],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a token in a token ring network?",
+        "options": ["Control access", "Route packets", "Detect errors", "Encrypt data"],
+        "answer": 0
+    },
+    {
+        "question": "Which routing protocol is link-state based?",
+        "options": ["RIP", "OSPF", "BGP", "IGRP"],
+        "answer": 1
+    },
+    {
+        "question": "Which network device connects different network types?",
+        "options": ["Switch", "Router", "Gateway", "Hub"],
+        "answer": 2
+    },
+    {
+        "question": "What is the port number for HTTP?",
+        "options": ["21", "25", "80", "443"],
+        "answer": 2
+    },
+    {
+        "question": "Which attack exploits network vulnerabilities?",
+        "options": ["Phishing", "DDoS", "SQL Injection", "XSS"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a firewall?",
+        "options": ["Route packets", "Filter network traffic", "Encrypt data", "Resolve domains"],
+        "answer": 1
+    },
+    {
+        "question": "Which layer of the three-tier architecture handles business logic?",
+        "options": ["Presentation", "Application", "Data", "Client"],
+        "answer": 1
+    },
+    {
+        "question": "Which technology is used for server-side scripting in JSP?",
+        "options": ["Java", "Python", "PHP", "JavaScript"],
+        "answer": 0
+    },
+    {
+        "question": "What does ASP stand for?",
+        "options": ["Active Server Pages", "Application Service Provider", "Advanced Script Processing", "Automated Server Protocol"],
+        "answer": 0
+    },
+    {
+        "question": "Which platform supports enterprise-level Java applications?",
+        "options": [".NET", "J2EE", "PHP", "Node.js"],
+        "answer": 1
+    },
+    {
+        "question": "Which .NET component supports web development?",
+        "options": ["ASP.NET", "WPF", "ADO.NET", "WinForms"],
+        "answer": 0
+    },
+    {
+        "question": "Which HTML tag defines a hyperlink?",
+        "options": ["<a>", "<link>", "<href>", "<url>"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of XML?",
+        "options": ["Style web pages", "Store and transport data", "Script web pages", "Define web layouts"],
+        "answer": 1
+    },
+    {
+        "question": "Which JSP directive includes a file at translation time?",
+        "options": ["<%@ page %>", "<%@ include %>", "<%@ taglib %>", "<%@ import %>"],
+        "answer": 1
+    },
+    {
+        "question": "Which .NET framework is used for cross-platform development?",
+        "options": [".NET Core", ".NET Framework", "Mono", "ASP.NET"],
+        "answer": 0
+    },
+    {
+        "question": "What is the root element in an XML document?",
+        "options": ["<root>", "<xml>", "Any tag", "<document>"],
+        "answer": 2
+    },
+    {
+        "question": "Which SQL command creates a new table?",
+        "options": ["CREATE", "ALTER", "DROP", "INSERT"],
+        "answer": 0
+    },
+    {
+        "question": "Which normal form eliminates partial dependencies?",
+        "options": ["1NF", "2NF", "3NF", "BCNF"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a composite key?",
+        "options": ["Ensure uniqueness", "Reduce redundancy", "Speed up queries", "Manage transactions"],
+        "answer": 0
+    },
+    {
+        "question": "Which SQL clause sorts query results?",
+        "options": ["WHERE", "GROUP BY", "ORDER BY", "HAVING"],
+        "answer": 2
+    },
+    {
+        "question": "What is the advantage of a B+ tree over a B tree?",
+        "options": ["Smaller size", "Faster search", "Leaf nodes linked", "No redundancy"],
+        "answer": 2
+    },
+    {
+        "question": "Which transaction isolation level prevents dirty reads?",
+        "options": ["Read Uncommitted", "Read Committed", "Repeatable Read", "Serializable"],
+        "answer": 1
+    },
+    {
+        "question": "Which relational algebra operation removes duplicate tuples?",
+        "options": ["Selection", "Projection", "Union", "Join"],
+        "answer": 1
+    },
+    {
+        "question": "What does a weak entity lack in an ER model?",
+        "options": ["Primary key", "Attributes", "Relationships", "Foreign key"],
+        "answer": 0
+    },
+    {
+        "question": "Which SQL join returns all rows from both tables?",
+        "options": ["Inner Join", "Left Join", "Right Join", "Full Join"],
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of a non-clustered index?",
+        "options": ["Sort data physically", "Store data separately", "Ensure uniqueness", "Reduce redundancy"],
+        "answer": 1
+    },
+    {
+        "question": "Which OSI layer handles error detection?",
+        "options": ["Physical", "Data Link", "Network", "Transport"],
+        "answer": 1
+    },
+    {
+        "question": "Which encoding scheme reduces synchronization issues?",
+        "options": ["NRZ", "Manchester", "Bipolar", "Unipolar"],
+        "answer": 1
+    },
+    {
+        "question": "What is the window size in a sliding window protocol?",
+        "options": ["Number of frames", "Number of bits", "Number of packets", "Number of errors"],
+        "answer": 0
+    },
+    {
+        "question": "Which LAN system uses CSMA/CD?",
+        "options": ["Ethernet", "Token Ring", "FDDI", "ATM"],
+        "answer": 0
+    },
+    {
+        "question": "Which routing protocol is used for inter-domain routing?",
+        "options": ["RIP", "OSPF", "BGP", "EIGRP"],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a switch in a network?",
+        "options": ["Route packets", "Forward frames", "Connect networks", "Encrypt data"],
+        "answer": 1
+    },
+    {
+        "question": "Which transport protocol is connectionless?",
+        "options": ["TCP", "UDP", "SCTP", "RTP"],
+        "answer": 1
+    },
+    {
+        "question": "Which protocol transfers files between systems?",
+        "options": ["HTTP", "SMTP", "FTP", "DNS"],
+        "answer": 2
+    },
+    {
+        "question": "Which security mechanism verifies user identity?",
+        "options": ["Encryption", "Authentication", "Integrity", "Confidentiality"],
+        "answer": 1
+    },
+    {
+        "question": "What is the port number for HTTPS?",
+        "options": ["80", "443", "25", "21"],
+        "answer": 1
+    },
+    {
+        "question": "Which layer of the three-tier architecture stores data?",
+        "options": ["Presentation", "Application", "Data", "Client"],
+        "answer": 2
+    },
+    {
+        "question": "Which JSP element embeds Java code in HTML?",
+        "options": ["Scriptlet", "Directive", "Action", "Declaration"],
+        "answer": 0
+    },
+    {
+        "question": "Which .NET technology is used for web services?",
+        "options": ["ASP.NET", "WCF", "WPF", "ADO.NET"],
+        "answer": 1
+    },
+    {
+        "question": "Which HTML attribute specifies the destination of a link?",
+        "options": ["src", "href", "link", "url"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a DTD in XML?",
+        "options": ["Define structure", "Style document", "Script document", "Store data"],
+        "answer": 0
+    },
+    {
+        "question": "Which J2EE component handles business logic?",
+        "options": ["Servlet", "JSP", "EJB", "JDBC"],
+        "answer": 2
+    },
+    {
+        "question": "Which ASP.NET feature supports dynamic web pages?",
+        "options": ["Code-behind", "Master pages", "Themes", "User controls"],
+        "answer": 0
+    },
+    {
+        "question": "Which XML parser processes the entire document at once?",
+        "options": ["SAX", "DOM", "StAX", "JAXP"],
+        "answer": 1
+    },
+    {
+        "question": "Which HTML tag defines a form?",
+        "options": ["<form>", "<input>", "<button>", "<submit>"],
+        "answer": 0
+    },
+    {
+        "question": "Which JSP action forwards a request to another resource?",
+        "options": ["<jsp:include>", "<jsp:forward>", "<jsp:useBean>", "<jsp:setProperty>"],
+        "answer": 1
+    },
+    {
+        "question": "Which SQL command deletes a table?",
+        "options": ["DELETE", "DROP", "TRUNCATE", "REMOVE"],
+        "answer": 1
+    },
+    {
+        "question": "Which constraint prevents null values in a column?",
+        "options": ["Primary Key", "Foreign Key", "Not Null", "Unique"],
+        "answer": 2
+    },
+    {
+        "question": "Which normal form ensures no non-key attribute dependencies?",
+        "options": ["1NF", "2NF", "3NF", "BCNF"],
+        "answer": 3
+    },
+    {
+        "question": "Which SQL function calculates the average of values?",
+        "options": ["SUM", "AVG", "COUNT", "MAX"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a secondary index?",
+        "options": ["Sort data", "Speed up non-key queries", "Ensure uniqueness", "Reduce redundancy"],
+        "answer": 1
+    },
+    {
+        "question": "Which transaction property ensures changes are saved?",
+        "options": ["Atomicity", "Consistency", "Isolation", "Durability"],
+        "answer": 3
+    },
+    {
+        "question": "Which concurrency control uses multiple versions of data?",
+        "options": ["Locking", "Timestamp ordering", "MVCC", "Two-phase commit"],
+        "answer": 2
+    },
+    {
+        "question": "Which relational algebra operation finds common tuples?",
+        "options": ["Union", "Intersection", "Difference", "Join"],
+        "answer": 1
+    },
+    {
+        "question": "What does cardinality represent in an ER model?",
+        "options": ["Number of entities", "Number of relationships", "Number of attributes", "Number of keys"],
+        "answer": 1
+    },
+    {
+        "question": "Which SQL join returns rows with matching values only?",
+        "options": ["Inner Join", "Left Join", "Right Join", "Full Join"],
+        "answer": 0
+    },
+    {
+        "question": "Which OSI layer establishes connections?",
+        "options": ["Network", "Transport", "Session", "Application"],
+        "answer": 2
+    },
+    {
+        "question": "Which data link protocol detects errors?",
+        "options": ["CRC", "Sliding Window", "Stop-and-Wait", "Go-Back-N"],
+        "answer": 0
+    },
+    {
+        "question": "Which LAN architecture uses a central hub?",
+        "options": ["Bus", "Ring", "Star", "Mesh"],
+        "answer": 2
+    },
+    {
+        "question": "Which Ethernet standard supports 1 Gbps?",
+        "options": ["802.3", "802.3u", "802.3z", "802.3ab"],
+        "answer": 2
+    },
+    {
+        "question": "Which routing protocol uses path-vector routing?",
+        "options": ["RIP", "OSPF", "BGP", "EIGRP"],
+        "answer": 2
+    },
+    {
+        "question": "Which network device broadcasts data to all ports?",
+        "options": ["Switch", "Router", "Hub", "Gateway"],
+        "answer": 2
+    },
+    {
+        "question": "Which TCP feature ensures reliable delivery?",
+        "options": ["Flow control", "Error detection", "Acknowledgment", "Segmentation"],
+        "answer": 2
+    },
+    {
+        "question": "Which protocol retrieves email from a server?",
+        "options": ["SMTP", "POP3", "HTTP", "FTP"],
+        "answer": 1
+    },
+    {
+        "question": "Which security mechanism ensures data has not been altered?",
+        "options": ["Encryption", "Authentication", "Integrity", "Authorization"],
+        "answer": 2
+    },
+    {
+        "question": "Which attack intercepts network communication?",
+        "options": ["Phishing", "Man-in-the-Middle", "DDoS", "SQL Injection"],
+        "answer": 1
+    },
+    {
+        "question": "Which layer of the three-tier architecture interacts with users?",
+        "options": ["Presentation", "Application", "Data", "Client"],
+        "answer": 0
+    },
+    {
+        "question": "Which JSP directive defines page attributes?",
+        "options": ["<%@ page %>", "<%@ include %>", "<%@ taglib %>", "<%@ import %>"],
+        "answer": 0
+    },
+    {
+        "question": "Which .NET component connects to databases?",
+        "options": ["ASP.NET", "WCF", "ADO.NET", "WPF"],
+        "answer": 2
+    },
+    {
+        "question": "Which HTML tag defines a table row?",
+        "options": ["<tr>", "<td>", "<th>", "<table>"],
+        "answer": 0
+    },
+    {
+        "question": "Which XML component defines data structure?",
+        "options": ["Schema", "Stylesheet", "Parser", "Tag"],
+        "answer": 0
+    },
+    {
+        "question": "Which J2EE technology handles web requests?",
+        "options": ["Servlet", "JSP", "EJB", "JMS"],
+        "answer": 0
+    },
+    {
+        "question": "Which ASP.NET feature defines site-wide layouts?",
+        "options": ["Code-behind", "Master pages", "Themes", "User controls"],
+        "answer": 1
+    },
+    {
+        "question": "Which XML parser processes data sequentially?",
+        "options": ["SAX", "DOM", "StAX", "JAXP"],
+        "answer": 0
+    },
+    {
+        "question": "Which HTML attribute specifies form submission method?",
+        "options": ["action", "method", "type", "value"],
+        "answer": 1
+    },
+    {
+        "question": "Which JSP action retrieves a JavaBean property?",
+        "options": ["<jsp:useBean>", "<jsp:getProperty>", "<jsp:setProperty>", "<jsp:include>"],
+        "answer": 1
+    }
+]

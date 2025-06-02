@@ -1,0 +1,547 @@
+[
+    {
+        "question": "Which of the following is a regular language?",
+        "options": ["{a^nb^n | n >= 0}", "{a^n | n is prime}", "{ww | w in {a,b}*}", "{a^n b^n | n >= 0}"],
+        "answer": 1
+    },
+    {
+        "question": "What is the minimum number of states in a DFA accepting {a,b}*?",
+        "options": ["1", "2", "3", "4"],
+        "answer": 0
+    },
+    {
+        "question": "Which automaton accepts context-free languages?",
+        "options": ["Finite Automaton", "Pushdown Automaton", "Turing Machine", "Linear Bounded Automaton"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is not a property of regular languages?",
+        "options": ["Closure under union", "Closure under complement", "Closure under intersection", "Closure under reversal"],
+        "answer": 0
+    },
+    {
+        "question": "What is the language accepted by a Turing machine?",
+        "options": ["Regular", "Context-Free", "Context-Sensitive", "Recursively Enumerable"],
+        "answer": 3
+    },
+    {
+        "question": "Which problem is undecidable for Turing machines?",
+        "options": ["Emptiness problem", "Halting problem", "Reachability problem", "Equivalence problem"],
+        "answer": 1
+    },
+    {
+        "question": "What is the role of the stack in a pushdown automaton?",
+        "options": ["Store input symbols", "Store states", "Provide memory", "Control transitions"],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is equivalent to a regular expression?",
+        "options": ["Context-Free Grammar", "Finite Automaton", "Pushdown Automaton", "Turing Machine"],
+        "answer": 1
+    },
+    {
+        "question": "Which language class is closed under complementation?",
+        "options": ["Regular", "Context-Free", "Context-Sensitive", "Recursively Enumerable"],
+        "answer": 0
+    },
+    {
+        "question": "What is the pumping lemma used for?",
+        "options": ["Prove a language is regular", "Prove a language is not regular", "Construct a DFA", "Minimize a DFA"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a context-free language?",
+        "options": ["{a^nb^nc^n | n >= 0}", "{a^nb^n | n >= 0}", "{ww | w in {a,b}*}", "{a^n | n is prime}"],
+        "answer": 1
+    },
+    {
+        "question": "What is the transition function of a DFA defined as?",
+        "options": ["Q x Σ → Q", "Q x Σ → 2^Q", "Q x Γ → Q", "Q x Σ x Γ → Q"],
+        "answer": 0
+    },
+    {
+        "question": "Which automaton has an infinite tape?",
+        "options": ["Finite Automaton", "Pushdown Automaton", "Turing Machine", "Linear Bounded Automaton"],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is not decidable for context-free languages?",
+        "options": ["Emptiness", "Finiteness", "Membership", "Equivalence"],
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of a nondeterministic finite automaton (NFA)?",
+        "options": ["Accept regular languages", "Accept context-free languages", "Minimize states", "Generate code"],
+        "answer": 0
+    },
+    {
+        "question": "Which grammar generates regular languages?",
+        "options": ["Type-0", "Type-1", "Type-2", "Type-3"],
+        "answer": 3
+    },
+    {
+        "question": "What is the accepting condition of a DFA?",
+        "options": ["Empty stack", "Final state", "Halt state", "Infinite loop"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a recursively enumerable language?",
+        "options": ["{a^nb^n | n >= 0}", "{a^nb^nc^n | n >= 0}", "{ww | w in {a,b}*}", "All languages"],
+        "answer": 1
+    },
+    {
+        "question": "What is the role of the tape in a Turing machine?",
+        "options": ["Store states", "Store input and work space", "Store transitions", "Store output"],
+        "answer": 1
+    },
+    {
+        "question": "Which language is not closed under union?",
+        "options": ["Regular", "Context-Free", "Context-Sensitive", "Recursively Enumerable"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of a lexical analyzer?",
+        "options": ["Tokens", "Parse tree", "Intermediate code", "Machine code"],
+        "answer": 0
+    },
+    {
+        "question": "Which parsing technique uses a stack?",
+        "options": ["Top-down parsing", "Bottom-up parsing", "Recursive descent parsing", "LL parsing"],
+        "answer": 1
+    },
+    {
+        "question": "What is syntax-directed translation used for?",
+        "options": ["Generate tokens", "Build parse trees", "Produce intermediate code", "Optimize code"],
+        "answer": 2
+    },
+    {
+        "question": "Which phase of a compiler checks for type errors?",
+        "options": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
+        "answer": 2
+    },
+    {
+        "question": "What is the role of the runtime environment in a program?",
+        "options": ["Manage memory allocation", "Generate code", "Parse input", "Link libraries"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is generated during code generation?",
+        "options": ["Tokens", "Parse tree", "Object code", "Syntax tree"],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of static linking?",
+        "options": ["Link libraries at runtime", "Link libraries at compile time", "Optimize code", "Generate intermediate code"],
+        "answer": 1
+    },
+    {
+        "question": "Which tool is used for lexical analysis?",
+        "options": ["Yacc", "Lex", "Bison", "ANTLR"],
+        "answer": 1
+    },
+    {
+        "question": "What is the output of a parser?",
+        "options": ["Tokens", "Parse tree", "Object code", "Intermediate code"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a bottom-up parsing technique?",
+        "options": ["LL parsing", "LR parsing", "Recursive descent parsing", "Predictive parsing"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a symbol table in a compiler?",
+        "options": ["Store tokens", "Store variable information", "Store parse trees", "Store machine code"],
+        "answer": 1
+    },
+    {
+        "question": "Which phase of a compiler generates machine code?",
+        "options": ["Lexical analysis", "Syntax analysis", "Code generation", "Semantic analysis"],
+        "answer": 2
+    },
+    {
+        "question": "What is dynamic linking?",
+        "options": ["Linking at compile time", "Linking at runtime", "Optimizing code", "Parsing code"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a runtime environment component?",
+        "options": ["Lexer", "Parser", "Activation record", "Code generator"],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of code optimization in a compiler?",
+        "options": ["Generate tokens", "Reduce execution time", "Parse syntax", "Link libraries"],
+        "answer": 1
+    },
+    {
+        "question": "Which parsing method uses a lookahead symbol?",
+        "options": ["LL parsing", "LR parsing", "Both LL and LR", "Recursive descent parsing"],
+        "answer": 2
+    },
+    {
+        "question": "What is the role of the linker in system software?",
+        "options": ["Generate tokens", "Combine object files", "Parse code", "Optimize code"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a syntax-directed translation scheme?",
+        "options": ["Attribute grammar", "Regular expression", "Finite automaton", "Turing machine"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of a loader in system software?",
+        "options": ["Parse code", "Load program into memory", "Generate code", "Optimize code"],
+        "answer": 1
+    },
+    {
+        "question": "Which compiler phase checks for syntax errors?",
+        "options": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
+        "answer": 1
+    },
+    {
+        "question": "Which scheduling algorithm is non-preemptive?",
+        "options": ["Round Robin", "Shortest Job First", "Priority Scheduling", "Multilevel Queue"],
+        "answer": 1
+    },
+    {
+        "question": "What is a deadlock in an operating system?",
+        "options": ["Process termination", "Resource contention", "Thread synchronization", "Memory overflow"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a synchronization mechanism?",
+        "options": ["Semaphore", "Thread", "Process", "File"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of interprocess communication?",
+        "options": ["Share resources", "Execute processes", "Manage memory", "Schedule CPU"],
+        "answer": 0
+    },
+    {
+        "question": "Which CPU scheduling algorithm minimizes waiting time?",
+        "options": ["FCFS", "SJF", "Round Robin", "Priority Scheduling"],
+        "answer": 1
+    },
+    {
+        "question": "What is the role of the page table in memory management?",
+        "options": ["Map virtual to physical addresses", "Store processes", "Manage CPU", "Handle I/O"],
+        "answer": 0
+    },
+    {
+        "question": "Which file system component stores file metadata?",
+        "options": ["Inode", "Directory", "Data block", "Superblock"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of an I/O buffer?",
+        "options": ["Store processes", "Reduce I/O latency", "Manage memory", "Schedule CPU"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following ensures process isolation?",
+        "options": ["Protection", "Synchronization", "Scheduling", "Communication"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of a thread in an operating system?",
+        "options": ["Manage memory", "Execute code concurrently", "Store files", "Handle I/O"],
+        "answer": 1
+    },
+    {
+        "question": "Which condition is necessary for a deadlock?",
+        "options": ["Mutual exclusion", "Preemption", "Non-blocking", "Infinite resources"],
+        "answer": 0
+    },
+    {
+        "question": "Which memory management technique uses fixed-size blocks?",
+        "options": ["Paging", "Segmentation", "Swapping", "Fragmentation"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of a file allocation table (FAT)?",
+        "options": ["Store file metadata", "Track file locations", "Manage processes", "Handle I/O"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a security mechanism?",
+        "options": ["Encryption", "Scheduling", "Synchronization", "Paging"],
+        "answer": 0
+    },
+    {
+        "question": "What is the role of the kernel in an operating system?",
+        "options": ["Manage hardware", "Run applications", "Store files", "Parse code"],
+        "answer": 0
+    },
+    {
+        "question": "Which scheduling algorithm uses a time quantum?",
+        "options": ["FCFS", "SJF", "Round Robin", "Priority Scheduling"],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a monitor in synchronization?",
+        "options": ["Manage memory", "Ensure mutual exclusion", "Schedule CPU", "Handle I/O"],
+        "answer": 1
+    },
+    {
+        "question": "Which interprocess communication mechanism uses shared memory?",
+        "options": ["Pipes", "Message queues", "Shared memory", "Sockets"],
+        "answer": 2
+    },
+    {
+        "question": "What is the disadvantage of FCFS scheduling?",
+        "options": ["High throughput", "Low waiting time", "Convoy effect", "Preemption"],
+        "answer": 2
+    },
+    {
+        "question": "Which memory management scheme allows variable-sized partitions?",
+        "options": ["Paging", "Segmentation", "Swapping", "Caching"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a directory in a file system?",
+        "options": ["Store file data", "Map file names to inodes", "Manage CPU", "Handle I/O"],
+        "answer": 1
+    },
+    {
+        "question": "Which I/O scheduling algorithm minimizes disk head movement?",
+        "options": ["FCFS", "SSTF", "SCAN", "C-SCAN"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of access control lists in security?",
+        "options": ["Schedule processes", "Manage memory", "Define permissions", "Handle I/O"],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is a process state?",
+        "options": ["Running", "Compiling", "Parsing", "Linking"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of a context switch?",
+        "options": ["Change process state", "Manage memory", "Handle I/O", "Generate code"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is a regular expression for {a,b}*?",
+        "options": ["(a+b)*", "a*b*", "ab", "a+b"],
+        "answer": 0
+    },
+    {
+        "question": "What is the minimum number of states in a DFA for the language {a^n | n >= 1}?",
+        "options": ["1", "2", "3", "4"],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is not a context-free language?",
+        "options": ["{a^nb^n | n >= 0}", "{a^nb^nc^n | n >= 0}", "{a^n | n >= 0}", "{ww^R | w in {a,b}*}"],
+        "answer": 1
+    },
+    {
+        "question": "What is the accepting condition of a pushdown automaton?",
+        "options": ["Final state or empty stack", "Final state only", "Empty stack only", "Halt state"],
+        "answer": 0
+    },
+    {
+        "question": "Which problem is decidable for regular languages?",
+        "options": ["Emptiness", "Equivalence", "Finiteness", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of a transition table in a finite automaton?",
+        "options": ["Store input symbols", "Define state transitions", "Store output", "Manage stack"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a Turing machine component?",
+        "options": ["Stack", "Tape", "Queue", "Register"],
+        "answer": 1
+    },
+    {
+        "question": "Which language class is closed under intersection?",
+        "options": ["Regular", "Context-Free", "Recursively Enumerable", "None"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of a lexical analyzer in a compiler?",
+        "options": ["Generate parse tree", "Break input into tokens", "Optimize code", "Generate machine code"],
+        "answer": 1
+    },
+    {
+        "question": "Which parsing technique is predictive?",
+        "options": ["LR parsing", "LL parsing", "Bottom-up parsing", "Shift-reduce parsing"],
+        "answer": 1
+    },
+    {
+        "question": "What is the role of intermediate code in a compiler?",
+        "options": ["Final output", "Temporary representation", "Token storage", "Syntax checking"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a code optimization technique?",
+        "options": ["Loop unrolling", "Lexical analysis", "Parsing", "Linking"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of a stack frame in the runtime environment?",
+        "options": ["Store tokens", "Manage function calls", "Generate code", "Parse syntax"],
+        "answer": 1
+    },
+    {
+        "question": "Which linking method resolves external references at runtime?",
+        "options": ["Static linking", "Dynamic linking", "Code linking", "Object linking"],
+        "answer": 1
+    },
+    {
+        "question": "What is the role of a code generator in a compiler?",
+        "options": ["Produce tokens", "Build parse tree", "Generate machine code", "Check syntax"],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is a top-down parsing technique?",
+        "options": ["LR parsing", "Shift-reduce parsing", "Recursive descent parsing", "Operator precedence parsing"],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a process control block (PCB)?",
+        "options": ["Store file data", "Manage process state", "Handle I/O", "Generate code"],
+        "answer": 1
+    },
+    {
+        "question": "Which deadlock avoidance algorithm uses a resource allocation graph?",
+        "options": ["Banker’s algorithm", "Round Robin", "Priority scheduling", "FCFS"],
+        "answer": 0
+    },
+    {
+        "question": "Which synchronization mechanism uses a binary value?",
+        "options": ["Mutex", "Semaphore", "Monitor", "Critical section"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of a message queue in interprocess communication?",
+        "options": ["Share memory", "Send messages", "Manage threads", "Schedule CPU"],
+        "answer": 1
+    },
+    {
+        "question": "Which CPU scheduling algorithm is preemptive?",
+        "options": ["FCFS", "SJF", "Round Robin", "Priority Scheduling"],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of virtual memory?",
+        "options": ["Increase CPU speed", "Expand address space", "Manage files", "Handle I/O"],
+        "answer": 1
+    },
+    {
+        "question": "Which file system structure stores the file system layout?",
+        "options": ["Inode", "Superblock", "Directory", "Data block"],
+        "answer": 1
+    },
+    {
+        "question": "Which I/O technique uses interrupts?",
+        "options": ["Programmed I/O", "Interrupt-driven I/O", "DMA", "Polling"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a capability list in security?",
+        "options": ["Define user permissions", "Manage memory", "Schedule processes", "Handle I/O"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is a thread state?",
+        "options": ["Running", "Compiling", "Parsing", "Linking"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is a regular language property?",
+        "options": ["Pumping lemma", "Non-determinism", "Infinite states", "Context sensitivity"],
+        "answer": 0
+    },
+    {
+        "question": "What is the role of the head in a Turing machine?",
+        "options": ["Read/write on tape", "Store states", "Manage transitions", "Store input"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is a context-free grammar?",
+        "options": ["S → aSb | ε", "S → aS | bS | ε", "S → a^nb^n", "S → ww"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of a syntax analyzer?",
+        "options": ["Generate tokens", "Check syntax", "Optimize code", "Generate machine code"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a runtime environment task?",
+        "options": ["Parsing code", "Managing stack", "Generating tokens", "Linking libraries"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a relocation register in memory management?",
+        "options": ["Map virtual addresses", "Protect memory", "Relocate program", "Manage cache"],
+        "answer": 2
+    },
+    {
+        "question": "Which file system operation maps a file name to its data?",
+        "options": ["Open", "Read", "Write", "Close"],
+        "answer": 0
+    },
+    {
+        "question": "Which I/O scheduling algorithm services requests in one direction?",
+        "options": ["FCFS", "SSTF", "SCAN", "C-SCAN"],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a firewall in security?",
+        "options": ["Manage processes", "Control network traffic", "Store files", "Schedule CPU"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a process synchronization problem?",
+        "options": ["Producer-Consumer", "FCFS scheduling", "Paging", "File allocation"],
+        "answer": 0
+    },
+    {
+        "question": "Which memory management technique reduces external fragmentation?",
+        "options": ["Paging", "Segmentation", "Swapping", "Caching"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of a boot block in a file system?",
+        "options": ["Store file data", "Initialize OS", "Manage inodes", "Handle I/O"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is an undecidable problem?",
+        "options": ["Membership in regular languages", "Emptiness in context-free languages", "Halting problem", "Finiteness in regular languages"],
+        "answer": 2
+    },
+    {
+        "question": "What is the role of a parser generator like Yacc?",
+        "options": ["Generate tokens", "Generate parser code", "Optimize code", "Link libraries"],
+        "answer": 1
+    },
+    {
+        "question": "Which CPU scheduling algorithm prioritizes processes with higher priority?",
+        "options": ["FCFS", "SJF", "Round Robin", "Priority Scheduling"],
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of a page fault in memory management?",
+        "options": ["Load page into memory", "Remove page from memory", "Manage cache", "Handle I/O"],
+        "answer": 0
+    },
+    {
+        "question": "Which file system component stores the file system’s free space?",
+        "options": ["Inode", "Superblock", "Bitmap", "Directory"],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a trap in an operating system?",
+        "options": ["Handle exceptions", "Manage memory", "Schedule processes", "Store files"],
+        "answer": 0
+    }
+]

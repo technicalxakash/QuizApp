@@ -1,0 +1,517 @@
+[
+    {
+        "question": "Which word has a silent 'k' at the beginning?",
+        "options": ["Know", "Kite", "King", "Kick"],
+        "answer": 0
+    },
+    {
+        "question": "Which of these is a homophone?",
+        "options": ["See - Sea", "Cat - Bat", "Tree - Free", "Run - Ran"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following words has a silent letter?",
+        "options": ["Knee", "Cat", "Tiger", "Cup"],
+        "answer": 0
+    },
+    {
+        "question": "How is 'the' pronounced before a vowel sound?",
+        "options": ["/ðə/", "/ðiː/", "/də/", "/dəə/"],
+        "answer": 1
+    },
+    {
+        "question": "Identify the word with a silent 'b'.",
+        "options": ["Bomb", "Bed", "Bend", "Bold"],
+        "answer": 0
+    },
+    {
+        "question": "Choose the correct usage: '___ apple a day keeps the doctor away.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 1
+    },
+    {
+        "question": "Choose the correct usage: 'He is ___ honest man.'",
+        "options": ["a", "an", "the", "no article"],
+        "answer": 1
+    },
+    {
+        "question": "Identify the error: 'She has a unique style.'",
+        "options": ["Correct", "Use 'an' instead of 'a'", "Use 'the' instead of 'a'", "No article needed"],
+        "answer": 1
+    },
+    {
+        "question": "Which article fits: '___ sun rises in the east.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 2
+    },
+    {
+        "question": "Which article fits: 'She bought ___ orange.'",
+        "options": ["a", "an", "the", "no article"],
+        "answer": 1
+    },
+    {
+        "question": "Select the correct sentence.",
+        "options": ["She go to school.", "She goes to school.", "She going to school.", "She gone to school."],
+        "answer": 1
+    },
+    {
+        "question": "Choose the correct form: 'Each of the boys ___ playing.'",
+        "options": ["are", "is", "were", "be"],
+        "answer": 1
+    },
+    {
+        "question": "Choose the correct verb: 'Neither the teacher nor the students ___ present.'",
+        "options": ["is", "was", "are", "be"],
+        "answer": 2
+    },
+    {
+        "question": "Find the error: 'He don't like mangoes.'",
+        "options": ["He", "don't", "like", "No error"],
+        "answer": 1
+    },
+    {
+        "question": "Which sentence is grammatically correct?",
+        "options": ["The team are winning.", "The team is winning.", "The team were winning.", "The team be winning."],
+        "answer": 1
+    },
+    {
+        "question": "Correct the sentence: 'Walking in the park, the birds were chirping.'",
+        "options": ["Correct", "Walking the birds", "While walking, birds", "While I was walking, the birds were chirping"],
+        "answer": 3
+    },
+    {
+        "question": "Choose the correct pronoun: 'Each of the players must bring ___ own bat.'",
+        "options": ["their", "his", "her", "its"],
+        "answer": 1
+    },
+    {
+        "question": "Identify the error: 'The man which came is my uncle.'",
+        "options": ["The", "which", "came", "No error"],
+        "answer": 1
+    },
+    {
+        "question": "Identify the pronoun in the sentence: 'She loves painting.'",
+        "options": ["She", "loves", "painting", "None"],
+        "answer": 0
+    },
+    {
+        "question": "Find the misplaced modifier: 'Running fast, the tree seemed to move.'",
+        "options": ["Running fast", "tree", "seemed", "No error"],
+        "answer": 0
+    },
+    {
+        "question": "Which word has a silent 'w'?",
+        "options": ["Wrist", "Write", "Wall", "Win"],
+        "answer": 1
+    },
+    {
+        "question": "Which is a homophone for 'pair'?",
+        "options": ["Pare", "Peer", "Pier", "Pure"],
+        "answer": 0
+    },
+    {
+        "question": "Which word has a silent 'l'?",
+        "options": ["Calm", "Love", "Land", "Leaf"],
+        "answer": 0
+    },
+    {
+        "question": "Which word is pronounced with an aspirated /p/?",
+        "options": ["Spin", "Pin", "Bin", "Win"],
+        "answer": 1
+    },
+    {
+        "question": "How is 'the' pronounced before a consonant sound?",
+        "options": ["/ðiː/", "/ðə/", "/də/", "/dəə/"],
+        "answer": 1
+    },
+    {
+        "question": "Which word ending with 'age' is pronounced with /ʒ/?",
+        "options": ["Cage", "Page", "Garage", "Rage"],
+        "answer": 2
+    },
+    {
+        "question": "Choose the correct article: '___ elephant is huge.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 1
+    },
+    {
+        "question": "Identify the error: 'He runs quick.'",
+        "options": ["He", "runs", "quick", "No error"],
+        "answer": 2
+    },
+    {
+        "question": "Which sentence is correct?",
+        "options": ["The children plays.", "The children play.", "The children playing.", "The children is playing."],
+        "answer": 1
+    },
+    {
+        "question": "Choose the correct pronoun: 'The team celebrated ___ victory.'",
+        "options": ["its", "their", "his", "her"],
+        "answer": 0
+    },
+    {
+        "question": "Which is a homonym for 'bank'?",
+        "options": ["River", "Shore", "Bank (financial)", "Stream"],
+        "answer": 2
+    },
+    {
+        "question": "The silent letter in 'salmon' is:",
+        "options": ["s", "a", "l", "m"],
+        "answer": 2
+    },
+    {
+        "question": "Which word has an aspirated /t/?",
+        "options": ["Stop", "Top", "Step", "Stand"],
+        "answer": 1
+    },
+    {
+        "question": "Choose the correct article: '___ moon is bright.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 2
+    },
+    {
+        "question": "Identify the error: 'Each of the girls have a dress.'",
+        "options": ["Each", "girls", "have", "dress"],
+        "answer": 2
+    },
+    {
+        "question": "Which is a homophone for 'know'?",
+        "options": ["No", "Now", "Knew", "None"],
+        "answer": 0
+    },
+    {
+        "question": "The silent letter in 'dumb' is:",
+        "options": ["d", "u", "m", "b"],
+        "answer": 3
+    },
+    {
+        "question": "Choose the correct form: 'The team ___ practicing.'",
+        "options": ["is", "are", "were", "be"],
+        "answer": 0
+    },
+    {
+        "question": "Find the error: 'She write a letter.'",
+        "options": ["She", "write", "letter", "No error"],
+        "answer": 1
+    },
+    {
+        "question": "Which word is pronounced with /ɪdʒ/ in 'age'?",
+        "options": ["Voyage", "Cage", "Mirage", "Garage"],
+        "answer": 1
+    },
+    {
+        "question": "Choose the correct article: '___ honesty is admirable.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 3
+    },
+    {
+        "question": "Identify the error: 'The book are on the shelf.'",
+        "options": ["book", "are", "shelf", "No error"],
+        "answer": 1
+    },
+    {
+        "question": "Which is a homophone for 'great'?",
+        "options": ["Grate", "Greet", "Grade", "Grip"],
+        "answer": 0
+    },
+    {
+        "question": "The silent letter in 'island' is:",
+        "options": ["i", "s", "l", "a"],
+        "answer": 1
+    },
+    {
+        "question": "Which word has an aspirated /k/?",
+        "options": ["Skip", "Kid", "Skin", "Kind"],
+        "answer": 1
+    },
+    {
+        "question": "Choose the correct article: '___ umbrella is red.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 1
+    },
+    {
+        "question": "Identify the error: 'They was waiting.'",
+        "options": ["They", "was", "waiting", "No error"],
+        "answer": 1
+    },
+    {
+        "question": "Which is a homophone for 'sale'?",
+        "options": ["Sail", "Seal", "Soil", "Sole"],
+        "answer": 0
+    },
+    {
+        "question": "The silent letter in 'receipt' is:",
+        "options": ["r", "e", "c", "p"],
+        "answer": 3
+    },
+    {
+        "question": "Choose the correct pronoun: 'Neither of the boys lost ___ book.'",
+        "options": ["their", "his", "her", "its"],
+        "answer": 1
+    },
+    {
+        "question": "Find the misplaced modifier: 'Reading a book, the dog barked.'",
+        "options": ["Reading a book", "dog", "barked", "No error"],
+        "answer": 0
+    },
+    {
+        "question": "Which word has a silent 'g'?",
+        "options": ["Gnome", "Game", "Goat", "Gold"],
+        "answer": 0
+    },
+    {
+        "question": "Which is a homophone for 'flour'?",
+        "options": ["Flower", "Floor", "Flaunt", "Flare"],
+        "answer": 0
+    },
+    {
+        "question": "Which word is pronounced with /ʒ/ in 'age'?",
+        "options": ["Cage", "Rage", "Mirage", "Page"],
+        "answer": 2
+    },
+    {
+        "question": "Choose the correct article: '___ earth is round.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 2
+    },
+    {
+        "question": "Identify the error: 'The dogs runs fast.'",
+        "options": ["dogs", "runs", "fast", "No error"],
+        "answer": 1
+    },
+    {
+        "question": "Which is a homophone for 'bear'?",
+        "options": ["Bare", "Bore", "Beer", "Burr"],
+        "answer": 0
+    },
+    {
+        "question": "The silent letter in 'sword' is:",
+        "options": ["s", "w", "o", "d"],
+        "answer": 1
+    },
+    {
+        "question": "Which word has an aspirated /p/?",
+        "options": ["Spin", "Pin", "Bin", "Win"],
+        "answer": 1
+    },
+    {
+        "question": "Choose the correct article: '___ lion roared loudly.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 2
+    },
+    {
+        "question": "Identify the error: 'She sings beautiful.'",
+        "options": ["She", "sings", "beautiful", "No error"],
+        "answer": 2
+    },
+    {
+        "question": "Which is a homophone for 'piece'?",
+        "options": ["Peace", "Pace", "Pass", "Piss"],
+        "answer": 0
+    },
+    {
+        "question": "The silent letter in 'thumb' is:",
+        "options": ["t", "h", "u", "b"],
+        "answer": 3
+    },
+    {
+        "question": "Choose the correct form: 'The committee ___ meeting.'",
+        "options": ["is", "are", "were", "be"],
+        "answer": 0
+    },
+    {
+        "question": "Which word is pronounced with /ɪdʒ/ in 'age'?",
+        "options": ["Cage", "Garage", "Mirage", "Massage"],
+        "answer": 0
+    },
+    {
+        "question": "Choose the correct article: '___ Taj Mahal is beautiful.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 2
+    },
+    {
+        "question": "Identify the error: 'The girls sings well.'",
+        "options": ["girls", "sings", "well", "No error"],
+        "answer": 1
+    },
+    {
+        "question": "Which is a homophone for 'hair'?",
+        "options": ["Hare", "Here", "Hear", "Hire"],
+        "answer": 0
+    },
+    {
+        "question": "The silent letter in 'psychology' is:",
+        "options": ["p", "s", "y", "c"],
+        "answer": 0
+    },
+    {
+        "question": "Which word has an aspirated /t/?",
+        "options": ["Stop", "Top", "Step", "Stand"],
+        "answer": 1
+    },
+    {
+        "question": "Choose the correct article: '___ man in the car is my friend.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 2
+    },
+    {
+        "question": "Identify the error: 'He have two dogs.'",
+        "options": ["He", "have", "two", "dogs"],
+        "answer": 1
+    },
+    {
+        "question": "Which is a homophone for 'knew'?",
+        "options": ["New", "Know", "No", "Now"],
+        "answer": 0
+    },
+    {
+        "question": "The silent letter in 'honest' is:",
+        "options": ["h", "o", "n", "e"],
+        "answer": 0
+    },
+    {
+        "question": "Which word is pronounced with /ʒ/ in 'age'?",
+        "options": ["Cage", "Rage", "Mirage", "Page"],
+        "answer": 2
+    },
+    {
+        "question": "Choose the correct article: '___ information is correct.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 2
+    },
+    {
+        "question": "Identify the error: 'The team are winning.'",
+        "options": ["team", "are", "winning", "No error"],
+        "answer": 1
+    },
+    {
+        "question": "Which is a homophone for 'wait'?",
+        "options": ["Weight", "Wet", "White", "Wit"],
+        "answer": 0
+    },
+    {
+        "question": "The silent letter in 'yacht' is:",
+        "options": ["y", "a", "c", "h"],
+        "answer": 3
+    },
+    {
+        "question": "Which word has an aspirated /k/?",
+        "options": ["Skip", "Kid", "Skin", "Kind"],
+        "answer": 1
+    },
+    {
+        "question": "Choose the correct article: '___ dog is loyal.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 2
+    },
+    {
+        "question": "Identify the error: 'She walk slow.'",
+        "options": ["She", "walk", "slow", "No error"],
+        "answer": 2
+    },
+    {
+        "question": "Which is a homophone for 'dear'?",
+        "options": ["Deer", "Dare", "Dire", "Door"],
+        "answer": 0
+    },
+    {
+        "question": "The silent letter in 'castle' is:",
+        "options": ["c", "a", "s", "t"],
+        "answer": 3
+    },
+    {
+        "question": "Choose the correct pronoun: 'Everyone must submit ___ work.'",
+        "options": ["their", "his", "her", "its"],
+        "answer": 1
+    },
+    {
+        "question": "Find the misplaced modifier: 'Eating breakfast, the table was set.'",
+        "options": ["Eating breakfast", "table", "was set", "No error"],
+        "answer": 0
+    },
+    {
+        "question": "Which word has a silent 'h'?",
+        "options": ["Hour", "House", "Hill", "Hand"],
+        "answer": 0
+    },
+    {
+        "question": "Which is a homophone for 'too'?",
+        "options": ["Two", "To", "Tow", "Toe"],
+        "answer": 0
+    },
+    {
+        "question": "Which word is pronounced with /ɪdʒ/ in 'age'?",
+        "options": ["Cage", "Garage", "Mirage", "Massage"],
+        "answer": 0
+    },
+    {
+        "question": "Choose the correct article: '___ university is nearby.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 2
+    },
+    {
+        "question": "Identify the error: 'The children is playing.'",
+        "options": ["children", "is", "playing", "No error"],
+        "answer": 1
+    },
+    {
+        "question": "Which is a homophone for 'meet'?",
+        "options": ["Meat", "Mate", "Mite", "Moot"],
+        "answer": 0
+    },
+    {
+        "question": "The silent letter in 'listen' is:",
+        "options": ["l", "i", "s", "t"],
+        "answer": 3
+    },
+    {
+        "question": "Which word has an aspirated /p/?",
+        "options": ["Spin", "Pin", "Bin", "Win"],
+        "answer": 1
+    },
+    {
+        "question": "Choose the correct article: '___ moon is full tonight.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 2
+    },
+    {
+        "question": "Identify the error: 'Each of the boys are tall.'",
+        "options": ["Each", "boys", "are", "tall"],
+        "answer": 2
+    },
+    {
+        "question": "Which is a homophone for 'right'?",
+        "options": ["Write", "Rate", "Root", "Rot"],
+        "answer": 0
+    },
+    {
+        "question": "The silent letter in 'wrong' is:",
+        "options": ["w", "r", "o", "n"],
+        "answer": 0
+    },
+    {
+        "question": "Choose the correct form: 'The jury ___ deliberating.'",
+        "options": ["is", "are", "were", "be"],
+        "answer": 0
+    },
+    {
+        "question": "Which word is pronounced with /ʒ/ in 'age'?",
+        "options": ["Cage", "Rage", "Mirage", "Page"],
+        "answer": 2
+    },
+    {
+        "question": "Choose the correct article: '___ eagle flew high.'",
+        "options": ["A", "An", "The", "No article"],
+        "answer": 1
+    },
+    {
+        "question": "Identify the error: 'She write a letter daily.'",
+        "options": ["She", "write", "letter", "daily"],
+        "answer": 1
+    },
+    {
+        "question": "Which is a homophone for 'here'?",
+        "options": ["Hear", "Hair", "Hare", "Hire"],
+        "answer": 0
+    }
+]

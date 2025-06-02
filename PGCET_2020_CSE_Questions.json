@@ -1,0 +1,367 @@
+[
+    {
+        "question": "How many words can be made from the word 'APPLE' using all the alphabets with repetition and without repetition respectively?",
+        "options": ["1024,60", "60,1024", "1024,1024", "240,1024"],
+        "answer": 0
+    },
+    {
+        "question": "There are 5 floating stones on a river. A man wants to cross the river. He can move either 1 or 2 steps at a time. Find the number of ways in which he can cross the river.",
+        "options": ["11", "12", "13", "14"],
+        "answer": 2
+    },
+    {
+        "question": "Suppose p is the number of cars per minute passing through a certain road junction between 5 PM and 6 PM, and p has a Poisson distribution with mean 3. What is the probability of observing fewer than 3 cars during any given minute in this interval?",
+        "options": ["8/(2e^3)", "9/(2e^3)", "17/(2e^3)", "26/(2e^3)"],
+        "answer": 2
+    },
+    {
+        "question": "Let G be a group with 15 elements. Let L be a subgroup of G. It is known that L != G and that the size of L is at least 4. The size of L is",
+        "options": ["3", "5", "7", "9"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is true?",
+        "options": ["The set of all rational negative numbers forms a group under multiplication.", "The set of all non-singular matrices forms a group under multiplication.", "The set of all matrices forms a group under multiplication.", "Both (B) and (C) are true."],
+        "answer": 1
+    },
+    {
+        "question": "Consider the first-order logic sentence where ψ(s,t,u,v,w,x,y) is a quantifier-free first-order logic formula using only predicate symbols, and possibly equality, but no function symbols. Suppose φ has a model with a universe containing 7 elements. Which one of the following statements is necessarily true?",
+        "options": ["There exists at least one model of φ with universe of size less than or equal to 3.", "There exists no model of φ with universe of size less than or equal to 3.", "There exists no model of φ with universe size of greater than 7.", "Every model of φ has a universe of size equal to 7."],
+        "answer": 0
+    },
+    {
+        "question": "For merging two unsorted lists of size p and q into sorted list of size (p+q). The time complexity in terms of number of comparisons is:",
+        "options": ["O(log p + log q)", "O(p log p + q log q)", "O(p + q)", "None"],
+        "answer": 1
+    },
+    {
+        "question": "In a complete k-ary tree, every internal node has exactly k children or no child. The number of leaves in such a tree with n internal nodes is:",
+        "options": ["nk", "(n-1)k+1", "n(k-1)+1", "n(k-1)"],
+        "answer": 2
+    },
+    {
+        "question": "Let P be a QuickSort Program to sort numbers in ascending order using the first element as pivot. Let t1 and t2 be the number of comparisons made by P for the inputs {1,2,3,4,5} and {4,1,5,3,2} respectively. Which one of the following holds?",
+        "options": ["t1=5", "t1<t2", "t1>t2", "t1=t2"],
+        "answer": 2
+    },
+    {
+        "question": "A binary search tree in which every non-leaf node has non-empty left and right subtrees is called a strictly binary tree. Such a tree with 19 leaves:",
+        "options": ["cannot have more than 37 nodes", "has exactly 37 nodes", "has exactly 35 nodes", "cannot have more than 35 nodes"],
+        "answer": 1
+    },
+    {
+        "question": "In an unweighted, undirected connected graph, the shortest path from a node S to every other node is computed most efficiently, in terms of time complexity by",
+        "options": ["Dijkstra’s algorithm starting from S", "Warshall’s algorithm", "Performing a DFS starting from S", "Performing a BFS starting from S"],
+        "answer": 3
+    },
+    {
+        "question": "What is the time complexity of the following recursive function:\nint DoSomething (int n)\n{\n    if ( n<=2 )\n        return 1;\n    else\n        return (DoSomething (floor(sqrt(n))) + n );\n}",
+        "options": ["Θ(n)", "Θ(n log n)", "Θ(log n)", "Θ(log log n)"],
+        "answer": 3
+    },
+    {
+        "question": "The simplified SOP (Sum Of Product) form of the Boolean expression (P + Q' + R').(P + Q' + R).(P + Q + R') is",
+        "options": ["(P'.Q + R')", "(P + Q'.R')", "(P'.Q + R)", "(P.Q + R)"],
+        "answer": 0
+    },
+    {
+        "question": "If P, Q, R are Boolean variables, then (P + Q)(PQ' + PR)(P'R' + Q') simplifies",
+        "options": ["PQ'", "PR'", "PQ' + R", "PR' + Q"],
+        "answer": 1
+    },
+    {
+        "question": "The amount of ROM needed to implement a 4 bit multiplier is:",
+        "options": ["64 bits", "128 bits", "1 Kbits", "2 Kbits"],
+        "answer": 0
+    },
+    {
+        "question": "For computer based on three-address instruction formats, each address field can be used to specify which of the following?\n(S1) A memory operand\n(S2) A processor register\n(S3) An implied accumulator register",
+        "options": ["Either S1 or S2", "Either S2 or S3", "Only S2 and S3", "All of S1, S2 and S3"],
+        "answer": 3
+    },
+    {
+        "question": "In designing a computer’s cache system, the cache block (or cache line) size is an important parameter. Which one of the following statements is correct in this context?",
+        "options": ["A smaller block size implies better spatial locality", "A smaller block size implies a smaller cache tag and hence lower cache tag overhead", "A smaller block size implies a larger cache tag and hence lower cache hit time", "A smaller block size incurs a lower cache miss penalty"],
+        "answer": 3
+    },
+    {
+        "question": "Given an arbitrary Non-deterministic Finite Automaton (NFA) with N states, the maximum number of states in an equivalent minimized DFA is at least.",
+        "options": ["N^2", "2^N", "2N", "N!"],
+        "answer": 1
+    },
+    {
+        "question": "Given the language L={ab, aa, baa}, which of the following strings are in L*?\n1. abaabaabaa\n2. aaaabaaaa\n3. baaaaabaeab\n4. baaaaabaa",
+        "options": ["1,2 and 3", "2,3 and 4", "1,2 and 4", "1,3 and 4"],
+        "answer": 2
+    },
+    {
+        "question": "Let w be any string of length n is {0,1}*. Let L be the set of all substrings of w. What is the minimum number of states in a non-deterministic finite automaton that accepts L?",
+        "options": ["n-1", "n", "n+1", "2n-1"],
+        "answer": 2
+    },
+    {
+        "question": "Let S and T be language over Σ={a,b} represented by the regular expressions (a+b*)* and (a+b)*, respectively. Which of the following is true?",
+        "options": ["S⊂T (S is a subset of T)", "T⊂S (T is a subset of S)", "S=T", "S∩T=∅"],
+        "answer": 2
+    },
+    {
+        "question": "The smallest finite automation which accepts the language {x | length of x is divisible by 3} has:",
+        "options": ["2 states", "3 states", "4 states", "5 states"],
+        "answer": 2
+    },
+    {
+        "question": "S → aSa|bSb|a|b; The language generated by the above grammar over the alphabet {a,b} is the set of:",
+        "options": ["All palindromes", "All odd length palindromes", "Strings that begin and end with the same symbol", "All even length palindromes"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following statement(s) regarding a linker software is/are true?\nI. A function of a linker is to combine several object modules into a single load module.\nII. A function of a linker is to replace absolute references in an object module by symbolic references to locations in other modules.",
+        "options": ["Only I", "Only II", "Both I and II", "Neither I nor II"],
+        "answer": 1
+    },
+    {
+        "question": "The lexical analysis for a modern computer language such as Java needs the power of which one of the following machine models in a necessary and sufficient sense?",
+        "options": ["Finite state automata", "Deterministic pushdown automata", "Non-Deterministic pushdown automata", "Turing Machine"],
+        "answer": 0
+    },
+    {
+        "question": "The least number of temporary variables required to create a three-address code in static single assignment form for the expression q + r/3 + s - t*5 + u*v/w is:",
+        "options": ["7", "8", "9", "4"],
+        "answer": 1
+    },
+    {
+        "question": "One of the purposes of using intermediate code in compilers is to:",
+        "options": ["make parsing and semantic analysis simpler.", "improve error recovery and error reporting.", "increase the chances of reusing the machine-independent code optimizer in other compilers.", "improve the register allocation."],
+        "answer": 2
+    },
+    {
+        "question": "A linker reads four modules whose lengths are 200, 800, 600 and 500 words respectively. If they are loaded in that order, what are the relocation constants?",
+        "options": ["0,200,500,600", "0,200,1000,1600", "200,500,600,800", "200,700,1300,2100"],
+        "answer": 1
+    },
+    {
+        "question": "The minimum number of page frames that must be allocated to a running process in a virtual memory environment is determined by",
+        "options": ["The instruction set architecture", "Page size", "Physical memory size", "Number of processes in memory"],
+        "answer": 0
+    },
+    {
+        "question": "In which one of the following page replacement policies, Belady’s anomaly may occur?",
+        "options": ["Optimal", "FIFO", "LRU", "MRU"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is NOT true of deadlock prevention and deadlock avoidance schemes?",
+        "options": ["In deadlock prevention, the request for resources is always granted if the resulting state is safe", "In deadlock avoidance, the request for resources is always granted if the result state is safe", "Deadlock avoidance is less restrictive than deadlock prevention", "Deadlock avoidance requires knowledge of resource requirements a priori"],
+        "answer": 0
+    },
+    {
+        "question": "Consider three CPU-intensive processes, which require 10, 20 and 30 times units and arrive at times 0, 2 and 6, respectively. How many context switches are needed if the operating system implements a shortest remaining time first scheduling algorithm? Note: Do not count the context switches at time zero and at the end.",
+        "options": ["1", "2", "3", "4"],
+        "answer": 1
+    },
+    {
+        "question": "Consider three processes (process id 0, 1, 2 respectively) with compute time bursts 2, 4 and 8 time units. All processes arrive at time zero. Consider the Longest Remaining Time First (LRTF) scheduling algorithm. In LRTF ties are broken by giving priority to the process with the lowest process id. The average turnaround time is:",
+        "options": ["13 units", "14 units", "15 units", "16 units"],
+        "answer": 0
+    },
+    {
+        "question": "The data blocks of a very large file in the file system are allocated using",
+        "options": ["contiguous allocation", "linked allocation", "indexed allocation", "an extension of indexed allocation"],
+        "answer": 3
+    },
+    {
+        "question": "In SQL, relations can contain null values, and comparisons with null values are treated as unknown. Suppose all comparisons with a null value are treated as false. Which of the following pairs is not equivalent?",
+        "options": ["x=5, not (not (x=5))", "x=5, x>4 and x<6, where x is an integer", "x<5, not (x=5)", "None of the above"],
+        "answer": 2
+    },
+    {
+        "question": "Consider a schema R(A,B,C,D) and functional dependencies A→B and C→D. Then the decomposition of R into R1(A,B) and R2(C,D) is.",
+        "options": ["dependency preserving and lossless join", "lossless join but not dependency preserving", "dependency preserving but not lossless join", "not dependency preserving and not lossless join"],
+        "answer": 2
+    },
+    {
+        "question": "Consider a relational table with a single record for each registered student with the following attributes.\n1. Registration_Number: Unique registration number for each registered student.\n2. UID: Unique Identity number, unique at the national level for each citizen.\n3. BankAccount_Number: Unique account number at the bank. A student can have multiple accounts or joint accounts. This attribute stores the primary account number.\n4. Name: Name of the Student\n5. Hostel_Room: Room number of the hostel\nWhich of the following options is INCORRECT?",
+        "options": ["BankAccount_Number is a candidate key", "Registration_Number can be a primary key", "UID is a candidate key if all students are from the same country", "If S is a superkey such that S∩UID is NULL then S∪UID is also a superkey"],
+        "answer": 0
+    },
+    {
+        "question": "Consider a relation scheme R = (A,B,C,D,E,H) on which the following functional dependencies hold: (A→B, BC→D, E→C, D→A). What are the candidate keys of R?",
+        "options": ["AE, BE", "AE, BE, DE", "AEH, BEH, BCH", "AEH, BEH, DEH"],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following concurrency control protocols ensure both conflict serializability and freedom from deadlock?\nI. 2-phase locking.\nII. Time-stamp ordering.",
+        "options": ["I only", "II only", "Both I and II", "Neither I nor II"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following scenarios may lead to an irrecoverable error in a database system?",
+        "options": ["A transaction writes a data item after it is read by an uncommitted transaction", "A transaction reads a data item after it is read by an uncommitted transaction", "A transaction reads a data item after it is written by a committed transaction", "A transaction reads a data item after it is written by an uncommitted transaction"],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is NOT true with respect to a transparent bridge and a router?",
+        "options": ["Both bridge and router selectively forward data packets", "A bridge uses IP addresses while a router uses MAC addresses", "A bridge builds up its routing table by inspecting incoming packets", "A router can connect between a LAN and a WAN"],
+        "answer": 1
+    },
+    {
+        "question": "Determine the maximum length of the cable (in km) for transmitting data at a rate of 500 Mbps in an Ethernet LAN with frames of size 10,000 bits. Assume the signal speed in the cable to be 2,00,000 km/s.",
+        "options": ["1", "2", "2.5", "5"],
+        "answer": 1
+    },
+    {
+        "question": "There are n stations in a slotted LAN. Each station attempts to transmit with a probability p in each time slot. What is the probability that ONLY one station transmits in a given time slot?",
+        "options": ["(1-p)^(n-1)", "p(1-p)^(n-1)", "np(1-p)^(n-1)", "1-(1-p)^(n-1)"],
+        "answer": 2
+    },
+    {
+        "question": "In an IPv4 datagram, the M bit is 0, the value of HLEN is 10, the value of total length is 400 and the fragment offset value is 300. The position of the datagram, the sequence numbers of the first and the last bytes of the payload, respectively are",
+        "options": ["Last fragment, 2400 and 2789", "First fragment, 2400 and 2759", "Last fragment, 2400 and 2759", "Middle fragment, 300 and 689"],
+        "answer": 2
+    },
+    {
+        "question": "Suppose that everyone in a group of N people wants to communicate secretly with the N-1 others using a symmetric key cryptographic system. The communication between any two persons should not be decodable by the others in the group. The number of keys required in the system as a whole to satisfy the confidentiality requirement is",
+        "options": ["2N", "N(N-1)/2", "N(N-1)", "(N-1)^2"],
+        "answer": 1
+    },
+    {
+        "question": "The minimum positive integer p such that 3^p modulo 17 = 1 is",
+        "options": ["5", "8", "12", "16"],
+        "answer": 3
+    },
+    {
+        "question": "How many attributes are there in HTML5?",
+        "options": ["2", "4", "1", "5"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following statements is/are FALSE?\nI. XML overcomes the limitations in HTML to support a structured way of organizing content.\nII. XML specification is not case sensitive while HTML specification is case sensitive.\nIII. XML supports user defined tags while HTML uses pre-defined tags.\nIV. XML tags need not be closed while HTML tags must be closed.",
+        "options": ["II only", "I only", "II and IV only", "III and IV only"],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following attributes are used in <jsp:include/> tag?",
+        "options": ["id, type", "page, flush", "type, class", "type, page"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following statements is true?",
+        "options": ["The sentence S is a logical consequence of S1,…,Sn if and only if S1∧S2∧…∧Sn→S is satisfiable.", "The sentence S is a logical consequence of S1,…,Sn if and only if S1∧S2∧…∧Sn→S is valid.", "The sentence S is a logical consequence of S1,…,Sn if and only if S1∧S2∧…∧Sn∧S is consistent.", "The sentence S is a logical consequence of S1,…,Sn if and only if S1∧S2∧…∧Sn∧S is inconsistent."],
+        "answer": 1
+    },
+    {
+        "question": "Let us assume that you construct ordered tree to represent the compound proposition (~(p∧q))↔(~p∨~q). Then, the prefix expression and postfix expression determined using this ordered tree are given as and respectively.",
+        "options": ["↔~∧pq∨~~pq, pq∧~p~q~∨↔", "↔~∧pq∨~~pq, pq∧~p~q∨↔", "↔~∧pq∨~p~q, pq∧~p~q~∨↔", "↔~∧pq∨~p~q, pq∧~p~~q∨↔"],
+        "answer": 2
+    },
+    {
+        "question": "In a room there are only two types of people, namely Type 1 and Type 2. Type 1 people always tell the truth and Type 2 people always lie. You give a fair coin to a person in that room, without knowing which type he is from and tell him to toss it and hide the result from you till you ask for it. Upon asking, the person replies the following: 'The result of the toss is head if and only if I am telling the truth'.",
+        "options": ["The result is head", "The result is tail", "If the person is of Type 2, then the result is tail", "If the person is of Type 1, then the result is tail"],
+        "answer": 0
+    },
+    {
+        "question": "For 8 keys and 6 slots in a hashing table with uniform hashing and chaining, what is the expected number of items that hash to a particular location?",
+        "options": ["2.33", "0.75", "1.33", "2"],
+        "answer": 2
+    },
+    {
+        "question": "For a graph with 'E' edges and 'V' vertices what is the time complexity of Dijkstra algorithm using array as data structure for storing non-finalized vertices? Graph is undirected and represented as adjacency list.",
+        "options": ["O(VE)", "O(E log V)", "O(V^2)", "O(E^2 log V)"],
+        "answer": 2
+    },
+    {
+        "question": "Four matrices M1, M2, M3 and M4 of dimensions pxq, qxr, rxs and sxt respectively can be multiplied in several ways with different numbers of total scalar multiplications. For example, when multiplied as ((M1 X M2) X (M3 X M4)), the total number of multiplications is pqr + rst + prt. When multiplied as ((M1 X M2) X M3) X M4), the total number of scalar multiplications is pqr + prs + pst. If p=10, q=100, r=20, s=5 and t=80, then the number of scalar multiplications needed is.",
+        "options": ["19000", "44000", "248000", "25000"],
+        "answer": 0
+    },
+    {
+        "question": "What is the minimal form of the Karnaugh map shown below? Assume that X denotes a don’t care term.",
+        "options": ["b'd'", "b'd' + a'b'c'd'", "b'd' + b'c' + c'd'", "b'd' + b'c'"],
+        "answer": 3
+    },
+    {
+        "question": "Consider an instruction pipeline with five stages without any branch prediction: Fetch Instruction (FI), Decode Instruction (DI), Fetch Operand (FO), Execute Instruction (EI) and Write Operand (WO). The stage delays for FI, DI, FO, EI and WO are 5 ns, 7 ns, 10 ns, 8 ns and 6 ns, respectively. There are intermediate storage buffers after each stage and the delay of each buffer is 1 ns. A program consisting of 12 instructions i1, i2, i3,...,i12 is executed in this pipelined processor. Instruction i4 is the only branch instruction and its branch target is i9. If the branch is taken during the execution of this program, the time (in ns) needed to complete the program is.",
+        "options": ["132", "165", "176", "328"],
+        "answer": 3
+    },
+    {
+        "question": "Let L = L1 ∩ L2, where L1 and L2 are languages as defined below:\nL1 = {a^m b^m ca^n b^n | m,n >= 0}\nL2 = {a^i b^j c^k | i,j,k >= 0}\nThen L is",
+        "options": ["Not recursive", "Regular", "Context free but not regular", "Recursively enumerable but not context free"],
+        "answer": 1
+    },
+    {
+        "question": "Consider the language L1, L2, L3 as given below.\nL1 = {0^p 1^q | p,q ∈ N}\nL2 = {0^p 1^p | p,q ∈ N and p=q}\nL3 = {0^p 1^p 0^r | p,q,r ∈ N and p=q=r}\nWhich of the following statements is NOT TRUE?",
+        "options": ["Push Down Automata (PDA) can be used to recognize L1 and L2", "L1 is a regular language", "Turing machine can be used to recognize all the three languages", "All the three languages are context free"],
+        "answer": 2
+    },
+    {
+        "question": "Consider the intermediate code given below:\n1. i=1\n2. j=1\n3. t1=5*i\n4. t2=t1+j\n5. t3=4*t2\n6. t4=t3\n7. a[t4]=-1\n8. j=j+1\n9. if j<=5 goto (3)\n10. i=i+1\n11. if i<5 goto (2)\nThe number of nodes and edges in the control-flow-graph constructed for the above code, respectively, are",
+        "options": ["5 and 7", "6 and 7", "5 and 5", "7 and 8"],
+        "answer": 1
+    },
+    {
+        "question": "A canonical set of items is given below:\nS → L.>R\nQ → R.\nOn input symbol < the set has.",
+        "options": ["a shift-reduce conflict and a reduce-reduce conflict.", "a shift-reduce conflict but not a reduce-reduce conflict.", "a reduce-reduce conflict but not a shift-reduce conflict.", "neither a shift-reduce nor a reduce-reduce conflict."],
+        "answer": 3
+    },
+    {
+        "question": "Consider the grammar\nE → E+n | E×n | n\nFor a sentence n+n×n, the handles in the right-sentential form of the reduction are:",
+        "options": ["n, E+n and E+n×n", "n, E+n and E+E×n", "n, n+n and n+n×n", "n, E+n and E×n"],
+        "answer": 3
+    },
+    {
+        "question": "An operating system uses Shortest Remaining Time first (SRT) process scheduling algorithm. Consider the arrival times and execution times for the following processes:\nProcess | Execution Time | Arrival Time\nP1 | 20 | 0\nP2 | 25 | 15\nP3 | 10 | 30\nP4 | 15 | 45\nWhat is the total waiting time for process P2?",
+        "options": ["5", "15", "40", "55"],
+        "answer": 1
+    },
+    {
+        "question": "Consider three processes, all arriving at time zero, with total execution time of 10, 20 and 30 units, respectively. Each process spends the first 20% of execution time doing I/O, the next 70% of time doing computation, and the last 10% of time doing I/O again. The operating system uses a shortest remaining compute time first scheduling algorithm and schedules a new process either when the running process gets blocked on I/O or when the running process finishes its compute burst. Assume that all I/O operations can be overlapped as much as possible. For what percentage of time does the CPU remain idle?",
+        "options": ["0%", "10.6%", "30.0%", "89.4%"],
+        "answer": 1
+    },
+    {
+        "question": "The atomic fetch-and-set x, y instruction unconditionally sets the memory location x to 1 and fetches the old value of x in y without allowing any intervening access to the memory location x. Consider the following implementation of P and V functions on a binary semaphore.\nvoid P (binary_semaphore *s) {\n    unsigned y;\n    unsigned *x = &(s->value);\n    do {\n        fetch-and-set x, y;\n    } while (y);\n}\nvoid V (binary_semaphore *s) {\n    S->value = 0;\n}\n",
+        "options": ["The implementation may not work if context switching is disabled in P.", "Instead of using fetch-and-set, a pair of normal load/store can be used", "The implementation of V is wrong", "The code does not implement a binary semaphore"],
+        "answer": 0
+    },
+    {
+        "question": "In a packet switching network, packets are routed from source to destination along a single path having two intermediate nodes. If the message size is 24 bytes and each packet contains a header of 3 bytes, then the optimum packet size is:",
+        "options": ["9", "7", "6", "4"],
+        "answer": 0
+    },
+    {
+        "question": "Consider the following tables T1 and T2:\nT1\nP | Q\n2 | 2\n3 | 8\n7 | 3\n5 | 8\n6 | 9\n8 | 5\n9 | 8\nT2\nR | S\n2 | 9\n8 | 5\n3 | 2\nIn table T1, P is the primary key, Q is the foreign key referencing R in table T2 with on-delete cascade and on-update cascade. In table T2, R is the primary key and S is the foreign key referencing P in the table T1 with on-delete set NULL and on-update cascade. In order to delete record (3,8) from table T2, numbers of additional record that need to be deleted from table T1 is",
+        "options": ["0", "1", "2", "3"],
+        "answer": 0
+    },
+    {
+        "question": "Let R1 (a,b,c) and R2 (x,y,z) be two relations in which a is the foreign key of R1 that refers to the primary key of R2. Consider following four options.\n(1) Insert into R1\n(2) Insert into R2\n(3) Delete from R1\n(4) Delete from R2\nWhich of the following is correct about the referential integrity constraint with respect to above?",
+        "options": ["Operations (1) and (2) will cause violation.", "Operations (2) and (3) will cause violation.", "Operations (3) and (4) will cause violation.", "Operations (4) and (1) will cause violation."],
+        "answer": 3
+    },
+    {
+        "question": "Consider the following statements regarding relational database model:\n(a) NULL values can be used to opt a tuple out of enforcement of a foreign key.\n(b) Suppose that table T has only one candidate key. If Q is in 3NF, then it is also in BCNF.\n(c) The difference between the project operator (π) in relational algebra and the SELECT keyword in SQL is that if the resulting table/set has more than one occurrences of the same tuple, then π will return only one of them, while SQL SELECT will return all.\nOne can determine that:",
+        "options": ["(a) and (b) are true.", "(a) and (c) are true.", "(b) and (c) are true.", "(a), (b) and (c) are true."],
+        "answer": 3
+    },
+    {
+        "question": "An Internet Service Provider (ISP) has the following chunk of CIDR based IP addresses available with it: 245.248.128.0/20. The ISP wants to give half of this chunk of address to Organization A, and a quarter to Organization B, while retaining the remaining with itself. Which of the following is a valid allocation of addresses to A and B?",
+        "options": ["245.248.136.0/21 and 245.248.128.0/22", "245.248.128.0/21 and 245.248.128.0/22", "245.248.132.0/22 and 245.248.132.0/21", "245.248.136.0/22 and 245.248.132.0/21"],
+        "answer": 0
+    },
+    {
+        "question": "The message 11001001 is to be transmitted using the CRC polynomial x^3+1 to protect it from errors. The message that should be transmitted is:",
+        "options": ["11001001000", "11001001011", "11001010", "110010010011"],
+        "answer": 1
+    },
+    {
+        "question": "A graphical HTML browser resident at a network client machine Q accesses a static HTML webpage from a HTTP server S. The static HTML page has exactly one static embedded image which is also at S. Assuming no caching, which one of the following is correct about the HTML webpage loading?",
+        "options": ["Q needs to send at least 2 HTTP requests to S, each necessarily in a separate TCP connection to server S", "A single HTTP request from Q to S is sufficient, and a single TCP connection between Q and S is necessary for this", "Q needs to send at least 2 HTTP requests to S, but a single TCP connection to server S is sufficient", "A single HTTP request from Q to S is sufficient, and this is possible without any TCP connection between Q and S"],
+        "answer": 2
+    },
+    {
+        "question": "Consider the following statements:\nI. telnet, ftp and http are application layer protocols.\nII. EJB (Enterprise Java Beans) components can be deployed in a J2EE application server.\nIII. If two languages conform to the Common Language Specification (CLS) of the Microsoft.NET framework, then a class defined in any one of them may be inherited in the other.\nWhich statements are true?",
+        "options": ["I and II only", "II and III only", "I and III only", "I, II and III"],
+        "answer": 0
+    }
+]

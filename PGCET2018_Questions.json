@@ -1,0 +1,743 @@
+[
+    {
+        "question": "In how many ways can 5 prizes be distributed among 4 boys when every boy can take one or more prizes?",
+        "options": [
+            "1024",
+            "625",
+            "120",
+            "600"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is TRUE?",
+        "options": [
+            "Set of all rational negative numbers forms a group under multiplication",
+            "Set of all non-singular matrices forms a group under multiplication",
+            "Set of all matrices forms a group under multiplication",
+            "Both (B) and (C)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Two unbiased coins are tossed. What is the probability of getting at most one head?",
+        "options": [
+            "1/2",
+            "1/3",
+            "1/6",
+            "3/4"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following mentioned standard Probability density functions is applicable to discrete Random Variables?",
+        "options": [
+            "Gaussian Distribution",
+            "Polynomial Distribution",
+            "Poisson Distribution",
+            "Exponential Distribution"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In a Binomial Distribution, if p, q and n are probability of success, failure and number of trials respectively then variance is given by",
+        "options": [
+            "Np",
+            "Npq",
+            "np^2 q",
+            "np q^2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The time complexity to build a heap with a list of n numbers is",
+        "options": [
+            "O(log n)",
+            "O(n)",
+            "O(n log n)",
+            "O(n^2)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "To represent hierarchical relationship between elements, Which data structure is suitable?",
+        "options": [
+            "Graph",
+            "Tree",
+            "List",
+            "Stack"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is an external sorting?",
+        "options": [
+            "Shell sort",
+            "Heap sort",
+            "Merge sort",
+            "Bubble sort"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the minimum number of stacks of size n required to implement a queue of size n?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How many undirected graphs (not necessarily connected) can be constructed out of a given set V={v1, v2, …, vn} of n vertices?",
+        "options": [
+            "n(n-1)/2",
+            "2n",
+            "n!",
+            "2^(n(n-1)/2)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Merge sort algorithm uses design technique.",
+        "options": [
+            "Greedy",
+            "Backtracking",
+            "Dynamic Programming",
+            "Divide and Conquer"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A binary search tree whose left subtree and right subtree differ in height by at most 1 unit is known as",
+        "options": [
+            "Lemma Tree",
+            "Red Black Tree",
+            "AVL Tree",
+            "None"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which register is used for the purpose of controlling the status of each interrupt request in parallel priority interrupt?",
+        "options": [
+            "Mask",
+            "Proc",
+            "Mark",
+            "None of the these"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In pipeline architecture, if a unit completes its task before the allotted time period, then",
+        "options": [
+            "Its time gets reallocated to different task",
+            "It will perform other task in the remaining time",
+            "It will remain idle for remaining time",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The write-through procedure is used",
+        "options": [
+            "To write onto the memory directly",
+            "To write directly on the memory and the cache simultaneously",
+            "To write and read onto the memory directly",
+            "To write and read from memory simultaneously"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The addition of 4-bit, two's complement, binary numbers 1101 and 0100 results in",
+        "options": [
+            "0001 and an overflow",
+            "1001 and no overflow",
+            "0001 and no overflow",
+            "1001 and an overflow"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following DMA transfer modes and interrupt handling mechanics will enable the highest I/O band-width?",
+        "options": [
+            "Transparent DMA and polling interrupts",
+            "Cycle-stealing and Vectored interrupts",
+            "Block transfer and Vectored interrupts",
+            "Block transfer and Polling interrupts"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The circular wait condition can be prevented by",
+        "options": [
+            "using thread",
+            "defining a linear ordering of resource types",
+            "using pipes",
+            "All of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A half-adder is also known as",
+        "options": [
+            "AND circuit",
+            "EX-OR circuit",
+            "NAND circuit",
+            "NOR circuit"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is an application of Finite Automaton?",
+        "options": [
+            "Compiler Design",
+            "Grammar Parsers",
+            "Text Search",
+            "All of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A language is regular if and only if",
+        "options": [
+            "accepted by DFA",
+            "accepted by LBA",
+            "accepted by PDA",
+            "accepted by Turing machine"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Regular expressions are",
+        "options": [
+            "Type 0 language",
+            "Type 1 language",
+            "Type 2 language",
+            "Type 3 language"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Parsing is also known as",
+        "options": [
+            "Lexical analysis",
+            "Syntax analysis",
+            "Semantic analysis",
+            "Code generation"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "System calls are usually invoked by using",
+        "options": [
+            "A privileged instruction",
+            "A direct jump",
+            "A software interrupt",
+            "Polling"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which one of the following is the deadlock avoidance algorithm?",
+        "options": [
+            "round-robin algorithm",
+            "elevator algorithm",
+            "karn's algorithm",
+            "banker's algorithm"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Multithreaded programs are",
+        "options": [
+            "lesser prone to deadlocks",
+            "more prone to deadlocks",
+            "not at all prone to deadlocks",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is an RISC architecture?",
+        "options": [
+            "80286",
+            "Zilog Z80",
+            "MIPS",
+            "80386"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "An assembler is",
+        "options": [
+            "Programming language dependent",
+            "Syntax dependent",
+            "Machine dependent",
+            "Data dependent"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The instruction, MOV AX, $0005 H belongs to the address mode",
+        "options": [
+            "Register",
+            "Direct",
+            "Immediate",
+            "Register relative"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The interrupt for which the processor has highest priority among all the internal interrupts is",
+        "options": [
+            "keyboard interrupt",
+            "TRAP",
+            "NMI",
+            "INT"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Third normal form is based on the concept of",
+        "options": [
+            "Functional dependency",
+            "Transitive dependency",
+            "Normal dependency",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Based on the cardinality ratio and participation associated with a relationship type, choose either the Foreign Key Design, the Cross Referencing Design or Mutual Referencing Design.",
+        "options": [
+            "Index",
+            "Constraints",
+            "Rules",
+            "Keys"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which data improves the performance and accessibility of the database?",
+        "options": [
+            "Index",
+            "User data",
+            "Application metadata",
+            "Data dictionary"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which one is correct w.r.t. RDBMS?",
+        "options": [
+            "primary key ⊆ super key ⊆ candidate key",
+            "primary key ⊆ candidate key ⊆ super key",
+            "super key ⊆ candidate key ⊆ primary key",
+            "super key ⊆ primary key ⊆ candidate key"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A bridge has access to address in the same network.",
+        "options": [
+            "Physical",
+            "Network",
+            "Datalink",
+            "Application"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Infrared signals can be used for short range communication in a closed area using propagation.",
+        "options": [
+            "Ground",
+            "Sky",
+            "Line of sight",
+            "Space"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The minimum frame length for 10 Mbps Ethernet is bytes and maximum is bytes.",
+        "options": [
+            "64 & 128",
+            "128 & 1518",
+            "1518 & 3036",
+            "64 & 1518"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is used in the options field of IPv4?",
+        "options": [
+            "Strict source routing",
+            "Time stamp",
+            "Loose source routing",
+            "All of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following OSI layers are host-to-host layers?",
+        "options": [
+            "Transport, Session, Presentation",
+            "Network, Transport, Session",
+            "Data-link, Network, Transport",
+            "Physical, Data-link, Network"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In IPv4 header, the field is needed to allow the destination host to determine which datagram a newly arrived fragment belongs to.",
+        "options": [
+            "Identification",
+            "Fragment offset",
+            "Subnet",
+            "Time-to-live"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following addresses is used to deliver a message to the correct application program running on a host?",
+        "options": [
+            "IP",
+            "Port",
+            "MAC",
+            "Ethernet"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "provides an option for entering SQL queries at execution time, rather than at the development stage.",
+        "options": [
+            "PL/SQL",
+            "SQL*Plus",
+            "SQL",
+            "Dynamic SQL"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If database modifications occur while the transaction is still active, the transaction is said to use the technique.",
+        "options": [
+            "Deferred-modification",
+            "Late-modification",
+            "Immediate-modification",
+            "Undo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A grammar for a programming language is a formal description of",
+        "options": [
+            "Syntax",
+            "Semantics",
+            "Structure",
+            "Library"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A finite automata recognizes",
+        "options": [
+            "Any Language",
+            "Context Sensitive Language",
+            "Context Free Language",
+            "Regular Language"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A web cookie is",
+        "options": [
+            "sent from user and stored in the server while a user is browsing a website",
+            "sent from a website and stored in user's web browser while a user is browsing a website",
+            "sent from root server to all servers",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "DTD definition is used along with XML to specify",
+        "options": [
+            "The data type of the XML document",
+            "The presentation of the XML document",
+            "The structure of the XML document",
+            "The link with other documents"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "MSXML is",
+        "options": [
+            "a Microsoft language",
+            "XML parser that ships with IE",
+            "a subset of XML",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "AJAX stands for",
+        "options": [
+            "asynchronous javascript and xml",
+            "advanced JSP and xml",
+            "asynchronous JSP and xml",
+            "advanced javascript and xml"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which one is a collection of templates and rules?",
+        "options": [
+            "XML",
+            "CSS",
+            "XSL",
+            "DHTML"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are (n+1) white and (n+1) black balls each set numbered 1 to n+1. The number of ways in which the balls can be arranged in a row so that adjacent balls are of different colours, is",
+        "options": [
+            "(2n+2)!",
+            "(2n+2)! * 2",
+            "(n+1)! * 2",
+            "2 * [(n+1)!]^2"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Let A and B be two events such that P(A)=1/5 While P(A or B)=1/2. Let P(B)=P. For what values of P are A and B independent?",
+        "options": [
+            "1/10 and 3/10",
+            "3/10 and 4/5",
+            "3/8",
+            "3/10"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In the group G={2,4,6,8} under multiplication modulo 10, the identity element is",
+        "options": [
+            "6",
+            "8",
+            "4",
+            "2"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The reverse polish notation equivalent to the infix expression: ((A+B) * C + D)/(E+F+G))",
+        "options": [
+            "AB+C*D+EF+G+/",
+            "AB+CD*+EF+G+/",
+            "AB+C*D+E+F+G/",
+            "AB+C*D+EFG++"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Consider the fractional knapsack instance n=4, profit: (p1, p2, p3, p4)=(10,10,12,18), weight: (w1, w2, w3, w4)=(2,4,6,9) and M=15. The maximum profit is given by",
+        "options": [
+            "40",
+            "38",
+            "32",
+            "30"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "For any B-tree of minimum degree t ≥ 2, every node other than the root must have at least keys and every node can have at most keys.",
+        "options": [
+            "t-1, 2t+1",
+            "t+1, 2t+1",
+            "t-1, 2t-1",
+            "t+1, 2t-1"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which one of the following is true with regard to a CPU having a single interrupt request line and single interrupt grant line?",
+        "options": [
+            "Neither vectored nor multiple interrupting devices is possible.",
+            "Vectored interrupts is not possible but multiple interrupting devices is possible.",
+            "Vectored interrupts is possible and multiple interrupting devices is not possible.",
+            "Both vectored and multiple interrupting devices are possible."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following statements are true? I. A circuit that adds two bits, producing a sum bit and a carry bit is called half adder. II. A circuit that adds two bits, producing a sum bit and a carry bit is called full adder. III. A circuit that adds two bits and a carry bit producing a sum bit and a carry bit is called full adder. IV. A device that accepts the value of a Boolean variable as input and produces its complement is called an inverter.",
+        "options": [
+            "I & II",
+            "II & III",
+            "I, II & III",
+            "I, III & IV"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The dual of a Boolean expression is obtained by interchanging",
+        "options": [
+            "Boolean sums and Boolean products and interchanging 0's & 1's",
+            "Boolean sums and Boolean products or interchanging 0's and 1's",
+            "Interchanging 0's and 1's",
+            "Boolean sums and Boolean products"
+        ],
+        "answer": 0
+   },
+   
+    {
+        "question": "The regular grammar for the language L={w | n_a(w) and n_b(w) are both even, w ∈ {a, b}*} is given by : (Assume, p, q, r and s are states)",
+        "options": [
+            "p → aq | br | λ, q → bs | ap, r → as | bp, s → ar | bq, p and s are initial and final states",
+            "p → aq | br, q → bs | ap, r → as | bp, s → ar | bq, p and s are initial and final states.",
+            "p → aq | br | λ, q → bs | ap, r → as | bp, s → ar | bq, p is both initial and final states",
+            "p → aq | br, q → bs | ap, r → as | bp, s → ar | bq, p is both initial and final states"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Given the following two languages: L1={a^n b^n | n>1} ∪ {a}, L2={w C wR | w ∈ {a, b}*}, Which statement is correct?",
+        "options": [
+            "Both L1 and L2 are not Deterministic",
+            "L1 is not deterministic and L2 is Deterministic",
+            "L1 is deterministic and L2 is not Deterministic",
+            "Both L1 and L2 are deterministic"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Consider a program that consists of 8 pages (from 0 to 7) and we have 4 page frames in the physical memory for the pages. The page reference string is: 123256346373153634243451. The number of page faults in LRU and optimal page replacement algorithms are respectively (without including initial page faults to fill available page frames with pages):",
+        "options": [
+            "9 and 6",
+            "10 and 7",
+            "9 and 7",
+            "10 and 6"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Assuming that the disk head is located initially at 32, find the number of disk moves required with FCFS if the disk queue of I/O block requests are 98, 37, 14, 124, 65, 67:",
+        "options": [
+            "310",
+            "320",
+            "324",
+            "321"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Consider the following processes with time slice of 4 milliseconds (I/O requests are ignored): Process A, B, C, D; Arrival time 0, 1, 2, 3; CPU cycle 8, 4, 9, 5 respectively, The average turnaround time of these processes will be",
+        "options": [
+            "19.25 milliseconds",
+            "18.25 milliseconds",
+            "19.5 milliseconds",
+            "18.5 milliseconds"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Suppose S and Q are two semaphores initialized to 1. P1 and P2 are two processes which are sharing resources. P1 has statements: wait(S); wait(Q); critical section 1; signal(S); signal(Q); P2 has statements: wait(Q); wait(S); critical section 2; signal(Q); signal(S); Their execution may sometimes lead to an undesirable situation called",
+        "options": [
+            "Starvation",
+            "Race condition",
+            "Deadlock",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following statements is false?",
+        "options": [
+            "Any relation with two attributes is in BCNF.",
+            "A relation in which every key has only one attribute is in 2NF.",
+            "A prime attribute can be transitively dependent on a key in 3NF relation.",
+            "A prime attribute can be transitively dependent on a key in BCNF relation."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Let R={A, B, C, D, E, F} be a relation schema with the following dependencies C → F, E → A, EC → D, A → B. Which of the following is a key for R?",
+        "options": [
+            "CD",
+            "EC",
+            "AE",
+            "AC"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The employee information of an Organization is stored in the relation: Employee (name, sex, salary, deptname). Consider the following SQL query: 'Select deptname from Employee Where sex = 'M' group by deptname having avg(salary) > {select avg(salary) from Employee}'. Output of the given query corresponds to",
+        "options": [
+            "Average salary of male employees in a department is more than average salary of the organization.",
+            "Average salary of employee equal to average salary of the organization.",
+            "Average salary of employee more than average salary of the organization.",
+            "Average salary less than average salary of the organization."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A network on the Internet has a subnet mask of 255.255.240.0. What is the maximum number of hosts it can handle?",
+        "options": [
+            "1024",
+            "2018",
+            "4096",
+            "8192"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Four bits are used for packed sequence numbering in a sliding window protocol used in a computer network. What is the maximum window size?",
+        "options": [
+            "4",
+            "9",
+            "15",
+            "16"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Consider the following message M=1010001101. The cyclic redundancy check (CRC) for this message using the divisor polynomial x^5+x^4+x^2+1 is:",
+        "options": [
+            "01110",
+            "01011",
+            "10110",
+            "10101"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A TCP message consisting of 2100 bytes is passed to IP for delivery across two networks. The first network can carry a maximum payload of 1200 bytes per frame and the second network can carry a maximum payload of 400 bytes per frame, excluding network overhead. Assume that IP overhead per packet is 20 bytes. What is the total IP overhead in the second network for this transmission?",
+        "options": [
+            "40 bytes",
+            "80 bytes",
+            "120 bytes",
+            "160 bytes"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Common gateway interface is used to",
+        "options": [
+            "generate executable files from web content by web server",
+            "generate web pages",
+            "stream videos",
+            "none of these"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of these is a proper JSON array?",
+        "options": [
+            "{\"letters\": [\"a\", \"b\", \"c\";}",
+            "{\"letters\": [\"a\", \"b\", \"c\"]}",
+            "{\"letters\": [a, b, c]}",
+            "{\"letters\": [\"a\", \"b\", \"c\"]}"
+        ],
+        "answer": 3
+    }
+]

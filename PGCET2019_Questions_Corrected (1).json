@@ -1,0 +1,752 @@
+[
+    {
+        "question": "The diagramming language suitable for object-oriented paradigm is",
+        "options": [
+            "Data Flow Diagramming Language",
+            "Entity-Relationship Language",
+            "Object-Oriented Language",
+            "Unified Modeling Language"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Couple of the good database design principles suggest that preservation and minimization of functional dependencies. These issues can be resolved by",
+        "options": [
+            "Eliminating transitive functional dependencies",
+            "Eliminating all interrelationship between all attributes",
+            "Minimizing candidate keys",
+            "None of these"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The normalization is a way to implement",
+        "options": [
+            "Good software engineering principles",
+            "Good database design principles",
+            "Structured Query Language",
+            "Database Schema"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Object-oriented paradigm is used in the analysis stage of SDLC to",
+        "options": [
+            "Structure the behavioural part of the business process",
+            "Design the structural part of Computer memory",
+            "Design the object-oriented programming language",
+            "Design the structure of the database"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The signature of the object method clause present in class diagram contains",
+        "options": [
+            "All definitional attributes of the class used in the method",
+            "All referential attributes of the class/es used in the method",
+            "All definitional attributes of related classes",
+            "All attributes of related classes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The Software Development Life Cycle (SDLC) is used in all",
+        "options": [
+            "Process models",
+            "Design models",
+            "Programming models",
+            "None of these"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The success rate of the software development is pathetically low because",
+        "options": [
+            "Most of the techniques are human skill dependent guidelines",
+            "The development methodology is not using object-oriented technology",
+            "Design of software comprises interrelated cluster of software",
+            "Inconsistency in the values of related data"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The Ford-Fulkerson method of finding maximum flow from source to sink is",
+        "options": [
+            "An iterative method",
+            "A recursive method",
+            "A direct determination method",
+            "A methodology of linked methods"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The complexity of algorithms is comparatively more accurate in the use of",
+        "options": [
+            "Asymptotic analysis",
+            "Amortized analysis",
+            "Both of these",
+            "Not dependent on the nature of analysis"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The matrices represented for transformations in homogeneous co-ordinate system are used to transform",
+        "options": [
+            "Multiplication into addition",
+            "Addition into multiplication",
+            "Division into subtraction",
+            "Subtraction into division"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The good software engineering principles are used in object-oriented paradigm to",
+        "options": [
+            "Streamline the structural part of the business process",
+            "Streamline the security of the business process",
+            "Streamline the structure of the class",
+            "Streamline the object methods of the class"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The picture definition, stored in the 24 frame buffers of which each 8 frame buffers are reserved for the primary colours viz, red, blue & green displays the picture in",
+        "options": [
+            "67,77,216",
+            "77,216",
+            "1,67,77,216",
+            "3"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In the parallel projection, the picture definition of the window to the view port, the parallel projection lines are",
+        "options": [
+            "Parallel to the viewport",
+            "Perpendicular to the viewport",
+            "Parallel to the window",
+            "Perpendicular to the window"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In isometric projection of picture definition, the object is projected on the screen which cuts the x-, y- & z- coordinate axes at",
+        "options": [
+            "Equidistance from the origin",
+            "Any distance from the origin",
+            "Equidistance from the screen",
+            "Any distance from the screen"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The scaling transformation of the object with uniform scaling factors greater than 1",
+        "options": [
+            "Retains the size and shape of the object",
+            "Retains only the size of the object",
+            "Changes only the shape of the object",
+            "Enhances the size of the object retaining the shape"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The scaling factors equals to 2 in any direction",
+        "options": [
+            "Retains the distance of the defining point of the object from the origin, but doubles the size of the object in that direction",
+            "Doubles the distance of the defining point of the object from the origin, but retains the size of the object in that direction",
+            "Retains both the distance of the defining point of the object from the origin and also the size of the object in that direction",
+            "Doubles both the distance of the defining point of the object from the origin and the size of the object in that direction"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The normals to the plane surface ax + by + cz + d = 0 is represented by",
+        "options": [
+            "ai + bj + ck",
+            "ai + bj + dk",
+            "ai + cj + dk",
+            "bi + cj + dk"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The transitive dependencies between attributes of a relation (relational DBMS file) is eliminated by the application of",
+        "options": [
+            "1st normal form",
+            "2nd normal form",
+            "3rd normal form",
+            "4th normal form"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The concatenation of three or more matrices is",
+        "options": [
+            "Associative and also commutative",
+            "Associative but not commutative",
+            "Commutative but not associative",
+            "Neither associative nor commutative"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The normalization of relations in DBMS is based on",
+        "options": [
+            "Divide and conquer algorithm",
+            "Axioms of probability",
+            "Greedy algorithm",
+            "Armstrong's axioms"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The undesirable multivalued dependency in a relation arises if there exist",
+        "options": [
+            "Two one-to-many relationships between attributes of a relation",
+            "One one-to-one and one one-to-many relationships between attributes within a relation",
+            "Two one-to-one relationships between attributes of a relation",
+            "One one-to-many relationship between attributes of a relation"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The software is developed using one of the process models, whose stages are iterative in nature because",
+        "options": [
+            "Their pedestal software development life cycle needs iteration",
+            "The activities in software developmental stages are human skill dependent",
+            "The involved automated activities need iterations",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The running time of amortized stack of n elements is",
+        "options": [
+            "Push = 2, pop = 0, Make Empty = 0",
+            "Push = 1, pop = 1, Make Empty = n",
+            "Push = 1 or n, pop = 1 or (n-1), Make Empty = 1",
+            "Push = 3, pop = 2, Make Empty = 1"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The tower of Hanoi puzzle with n (n > 1) different dimensional disks stacked on peg A in the decreasing order of their size with largest dimensional disk at the bottom and smallest dimensional disk at the top. The disks are to be transferred from peg A to Peg B using peg C with one disk at a time such that under no circumstance larger disk should be stacked on smaller disk. The total number of disk transfers is given by",
+        "options": [
+            "2T(n-1) + 2",
+            "2T(n-1) + 1",
+            "T(n-1) + T(n-2)",
+            "2T(n)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The running time of an algorithm of n interdependent operations is computed with both the asymptotic & amortized analyses. The most accurate running time is obtained by",
+        "options": [
+            "Asymptotic analysis",
+            "Amortized analysis",
+            "Both analyses",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In a banking system, where customers transact randomly for the storage & accession of desired data, the most appropriate file for storage of records could be",
+        "options": [
+            "Sequential file",
+            "Indexed sequential file",
+            "Hash file",
+            "Random file"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The least running time of creating spanning tree from connected graph G(E, V) is",
+        "options": [
+            "O(V log V)",
+            "O(E + V log V)",
+            "O(E log V)",
+            "O(V log V + E log V)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When a programming system and software are developed separately for the same business process, the development cost of",
+        "options": [
+            "programming system is more than the software",
+            "software is more than the programming system",
+            "Both are the same",
+            "Both cannot be comparable"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The iterations of Software Development Stage Activities in different process models are used to",
+        "options": [
+            "Eliminate errors of previous iterations in the current iteration and also to accommodate the changes in the business process",
+            "Only eliminate errors of previous iterations in the current iteration",
+            "Only accommodate the change in business process",
+            "None of these"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The average number of accesses to access the desired record stored in a sequential file containing n records is",
+        "options": [
+            "(n+1)/2",
+            "n/2",
+            "(n-1)/2",
+            "n"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "During the implementation stage of Software Development Life Cycle, the following UML diagram is designed to determine the correctness & Completeness of integration of different software",
+        "options": [
+            "Class diagram",
+            "Object diagram",
+            "Usecase diagram",
+            "Component diagram"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In DBMS, the only association would satiate the complete interrelationships set of business processes and in object-oriented paradigm, the interrelationships are enhanced by additional aggregation & super-sub class hierarchy. This addition is due to the elimination of the following from the object-oriented paradigm",
+        "options": [
+            "null values only",
+            "redundancies only",
+            "both null values & redundancies",
+            "inconsistencies"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Relational Algebra is integral part of DBMS because it",
+        "options": [
+            "contains operators analogous to query language queries",
+            "contains relational operators analogous to query language queries",
+            "is used as intermediate language in translating programming language programs into query language queries",
+            "is used as intermediate language in translating query language queries into programming language programs"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The following relational algebra operators form complete set of operators. The other operators can be represented by any combinations of these",
+        "options": [
+            "{ρ, σ, Π, -, ∩}",
+            "{σ, ÷, -, ∪, X}",
+            "{σ, Π, -, ∪, X}",
+            "{σ, Π, -, ∩, +}"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The 'divide' operator in the relational algebra is categorized as",
+        "options": [
+            "A mathematical operator",
+            "A relational operator",
+            "A mathematical cum relational operator",
+            "Neither relational nor mathematical operator"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The comparison of algorithm types divide-and-conquer (DAC) and dynamic programming (DP) indicates that",
+        "options": [
+            "DP is bottom-up approach and DAC is top-down approach",
+            "DP is top-down approach and DAC is bottom-up approach",
+            "Both DP and DAC are bottom-up approaches",
+            "Both DP and DAC are top-down approaches"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The distinction between B tree and B+ tree is that",
+        "options": [
+            "B tree contains data at all memory locations whereas B+ tree contains data at leaf level nodes",
+            "B+ tree contains data at all levels and B tree contains data only at the leaf nodes",
+            "Both contain data at all levels",
+            "Both contains data only at leaf nodes"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The decomposition of a relation R of relational DBMS into two relations R1(X) & R2(Y) is lossless if",
+        "options": [
+            "X ∩ Y > X - Y or X ∩ Y > Y - X is in F+",
+            "X - Y > X ∪ Y or Y - X > X ∪ Y is in F+",
+            "X ∩ Y > X - Y and X ∩ Y > Y - X are in F+",
+            "X - Y > X ∪ Y and Y - X > X ∪ Y are in F+"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In the transaction management of schedule, the",
+        "options": [
+            "Conflict serializability implies View serializability",
+            "View serializability implies Conflict serializability",
+            "Conflict serializability does not implies View serializability",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A two level indexed sequential file of size 12,000 records has 20 entries in each index. The average number of accesses required for accessing a desired record is",
+        "options": [
+            "6000",
+            "70",
+            "35",
+            "39"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In a real time system, the time is more important than the quality of",
+        "options": [
+            "Structure of the system",
+            "Function of the system",
+            "Cardinality of the file",
+            "Functional dependencies of the record"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The efficacious software testing follows the following principle",
+        "options": [
+            "Maximum number of test cases to detect & correct minimum number of errors",
+            "Minimum number of test cases to detect & correct minimum number of errors",
+            "Maximum number of test cases to detect & correct maximum number of errors",
+            "Minimum number of test cases to detect & correct maximum number of errors"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The communication network comprises number of base stations. The scope of each base station covers the circular area. To avoid the overlapping and gaping of areas, the scope of each base station is accounted by",
+        "options": [
+            "Rectangle",
+            "Pentagon",
+            "Hexagon",
+            "Octagon"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In the software testing, the behavioural testing is called",
+        "options": [
+        "White box testing",
+        "Black box testing",
+        "Mutation testing",
+        "Integration testing"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The relational DBMS is constructed on relational principles which are based on",
+        "options": [
+            "The matrix theory",
+            "Axiomatic principles",
+            "Primary key",
+            "Primary & foreign key relationship"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In relational DBMS, the closure of functional dependencies facilitates",
+        "options": [
+            "To determine the candidate key",
+            "To determine the foreign key",
+            "To determine the dependency of an attribute with other attribute/s",
+            "None of these"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The process of normalization is used to",
+        "options": [
+            "Enhance the number of relations",
+            "Determine the relationship between different relations",
+            "Minimize the redundancies & eliminate anomalies",
+            "Ease the computational work"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The schema for the entire database is designed using",
+        "options": [
+            "Data definitional language",
+            "Structured query language",
+            "Data manipulation language",
+            "Schema structure language"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The difference between the structured query language and the programming language is that",
+        "options": [
+            "Structured query language does not contain answer to how? about computation",
+            "Programming language does not contain the answer to how? About computation",
+            "Only structured query language uses strict semiotics",
+            "Only programming language uses strict semiotics"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "One of the differences between Object-Oriented Paradigm (OOP) and Database Management System (DBMS) is that",
+        "options": [
+            "In DBMS, null values & redundancies are completely eliminated",
+            "In OOP, null values & redundancies are completely eliminated",
+            "In OOP, only null values are minimized",
+            "In DBMS, only null values are eliminated"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In the software Testing, the white box testing tests part and black box testing tests part of the developed programming system",
+        "options": [
+            "structural, behavioural",
+            "behavioural, structural",
+            "mutational, structural",
+            "structural, mutational"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The signature present in the object method clause of the class diagram contains attributes of the related classes and type",
+        "options": [
+            "return, referential",
+            "referral, return",
+            "referential, return",
+            "definitional, used"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In the 'Analyzing' stage of Software Development Life Cycle (SDLC), defines the entire memory structure and defines the main memory",
+        "options": [
+            "schema, paradigm",
+            "schema, relation",
+            "paradigm, relation",
+            "schema, relation structure"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The Information Technology encompasses the engineering disciplines of and",
+        "options": [
+            "CSE, ECE, Instrumentation, Telecommunication",
+            "ECE, Instrumentation, Telecommunication, Electrical",
+            "CSE, ECE, Instrumentation, Electrical",
+            "Electrical, CSE, ECE, Telecommunication"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A society is called information society if majority of people of all walks of life use for their routine information processing",
+        "options": [
+            "calculator",
+            "information",
+            "computer",
+            "television"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In software engineering, the word paradigm means the operators and are within the system",
+        "options": [
+            "variables",
+            "operands",
+            "constants",
+            "transitive verbs"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The level 0 data flow diagram (context diagram) contains the syntactics viz., and only and not",
+        "options": [
+            "data stores, processes, data flows and not actors",
+            "actors, data flows, processes and not data stores",
+            "data stores, processes, actors and not data flows",
+            "data stores, actors, data flows and not processes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The conflict serializability can be determined by of the graph containing READs and WRITEs of transactions of a schedule as vertices and READ-WRITE, WRITE-READ and in the time order as edges",
+        "options": [
+            "acyclicity, READ-READ",
+            "cyclicity, READ-WRITE",
+            "cyclicity, WRITE-READ",
+            "acyclicity, WRITE-WRITE"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Agile process model is developed based on (number) principles and one of the most widely used approach is called (XP)",
+        "options": [
+            "5, External programming",
+            "6, Extreme programming",
+            "7, External Paradigm",
+            "7, Extreme programming"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Software maintenance means perennial updation of software to the changing needs of process and advancement in",
+        "options": [
+            "business, technology",
+            "business, business",
+            "business, information",
+            "technology, business"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In the Rational Unified Process (RUP), the milestone is reached after completion of elaboration stage",
+        "options": [
+            "lifecycle objectives",
+            "lifecycle architecture",
+            "initial operational capability",
+            "life cycle technique"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The statement in the program, reserves a record length memory for the file with structures defined in the program",
+        "options": [
+            "open",
+            "close",
+            "Read",
+            "write"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The visibility 'protected' is used only with attributes and methods of",
+        "options": [
+            "subclass",
+            "super class",
+            "abstract class",
+            "base class"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The running time of using two-way merge-sort technique to sort a file of n > 1 records is",
+        "options": [
+            "2T(n/2) + Θ(n)",
+            "lg(n) + Θ(n)",
+            "Θ(n)",
+            "O(n)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The postfix notation for infix notation a * (b + c) + d + e is given by",
+        "options": [
+            "abc*+de++",
+            "abc*+de++",
+            "abcde++*+",
+            "abc*+de++"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The infix notation helps to compute and postfix & prefix notations help to compute",
+        "options": [
+            "human, algorithm",
+            "program, human",
+            "human, machine",
+            "machine, human"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A binary tree of height h can have at most minimum of elements where n is the height of the tree",
+        "options": [
+            "2^n",
+            "2^(n+1)",
+            "2^n + 1",
+            "2^(2n)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In the requirements gathering stage of SDLC, the passive (voice) statement are converted into active (voice) statement because",
+        "options": [
+            "The active statement define an event",
+            "The active statement define an activity",
+            "The active statement refer an event",
+            "The active statement refer an activity"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The logical data model of any DBMS is the of the model in terms of the DBMS",
+        "options": [
+            "version, conceptual",
+            "conceptual, physical",
+            "internal, conceptual",
+            "version, physical"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In UML, the number of usecase diagrams commensurate with",
+        "options": [
+            "number of usecases",
+            "number of classes",
+            "number of actors",
+            "number of object methods"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Software development planning is designed using",
+        "options": [
+            "activity diagram",
+            "object structure diagram",
+            "activity chart",
+            "bar chart"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The multivalued dependencies (MVDs) can be eliminated using normal form on normal form relations",
+        "options": [
+            "1st, 2nd",
+            "2nd, 3rd",
+            "3rd, BCNF",
+            "4th, BCNF"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The Software Development Life Cycle used in process models for software development will be with meaningful life cycle if between consecutive stages there exist",
+        "options": [
+            "activities documents",
+            "amphisbaena documents",
+            "design documents",
+            "software"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In a communicative network, though the scope of base station is circular area, the network scope is represented by shape, as it is nearest to the circular area",
+        "options": [
+            "triangular",
+            "rectangular",
+            "pentagonal",
+            "hexagonal"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In the software development, the physical architecture is related to the stage/s and logical architecture is related to stage/s",
+        "options": [
+            "Implementation & Deployment, Design",
+            "Coding & implementation, Design",
+            "Design & Implementation, Deployment",
+            "Deployment & Implementation, Deployment"
+        ],
+        "answer": 0
+    }
+]

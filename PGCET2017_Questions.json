@@ -1,0 +1,752 @@
+[
+    {
+        "question": "Concurrent processes are processes that",
+        "options": [
+            "do not overlap in time",
+            "overlap in time",
+            "are extended by a processor at the same time",
+            "Process generated from the same operating system"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following are real - time systems?",
+        "options": [
+            "Railway reservation system",
+            "Aircraft control system",
+            "Payroll system",
+            "Hotel reservation system"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Dirty bit is used to show the",
+        "options": [
+            "page that is modified after being loaded into cache memory.",
+            "page that is less frequently accessed.",
+            "wrong page in the memory.",
+            "page with corrupted data."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The first-fit, best-fit and the worst-fit algorithm can be used for",
+        "options": [
+            "Contiguous allocation of memory",
+            "Linked allocation of memory",
+            "Indexed allocation of memory",
+            "Random allocation of memory"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "MS - DOS",
+        "options": [
+            "does not support multiprogramming",
+            "supports multiprogramming to some extent",
+            "support multiprogramming fully",
+            "support mobile communication"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In which of the following scheduling policies does context switching never take place?",
+        "options": [
+            "Round Robin",
+            "First-come-First-served",
+            "Pre-emptive",
+            "Time sharing"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which page replacement algorithm suffers from Belady's anomaly?",
+        "options": [
+            "FIFO replacement",
+            "Optimal replacement",
+            "LRU replacement",
+            "Stack algorithm"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "'Aging' is",
+        "options": [
+            "keeping track of cache contents.",
+            "keeping track of what pages are currently residing in the memory.",
+            "keeping track of how many times a given page is referenced.",
+            "Increasing the priority of jobs to ensure termination in a finite time."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Memory protection is normally done by the",
+        "options": [
+            "user himself",
+            "processor and associated hardware",
+            "compiler",
+            "user program"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When an interrupt occurs, an operating system",
+        "options": [
+            "ignores the interrupt",
+            "always changes the state of the interrupted process after processing the interrupt.",
+            "always resumes execution of the interrupted process after processing the interrupt.",
+            "may change the state of the interrupted process to 'blocked' and schedule another process."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A phone number in a database is an example of",
+        "options": [
+            "Record",
+            "Field",
+            "Sort",
+            "File"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The concept of locking can be used to solve the problem of",
+        "options": [
+            "lost update",
+            "scheduling",
+            "memory management",
+            "deadlock"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Given an attribute X, another attribute Y is dependent on it, if for a given X",
+        "options": [
+            "There are many Y values",
+            "There is only one value of Y",
+            "There is one or more Y values",
+            "There is none or one Y values"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which normal form is considered adequate for relational database design?",
+        "options": [
+            "2NF",
+            "3NF",
+            "4NF",
+            "BCNF"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A relationship where weak entity is one of the participating entities is called as",
+        "options": [
+            "Weak relationship",
+            "Binary relationship",
+            "Identifying relationship",
+            "Recursive relationship"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Degree of relationship means",
+        "options": [
+            "number of attributes of the relationship",
+            "number of entities participating in relationship",
+            "number of entities in the ER model",
+            "number of relationships in ER model"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The topology with highest reliability is",
+        "options": [
+            "Bus topology",
+            "Star topology",
+            "Ring topology",
+            "Mesh topology"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The size of an ATM cell is",
+        "options": [
+            "48 Bytes",
+            "53 Bytes",
+            "52 Bytes",
+            "43 Bytes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The address class meant for multicasting is",
+        "options": [
+            "Class C",
+            "Class D",
+            "Class E",
+            "Class B"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which company developed RP/IP protocol for networking?",
+        "options": [
+            "IBM",
+            "DEC",
+            "NOVELL",
+            "DARPA"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Bridges function is",
+        "options": [
+            "physical",
+            "network",
+            "data - link",
+            "session"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "allows LAN users to share computer programs and data.",
+        "options": [
+            "Communication Server",
+            "Proxy Server",
+            "Print Server",
+            "File Server"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The four lowest layers of the 7 layered OSI reference model are",
+        "options": [
+            "Transport, Session, Presentation, Application",
+            "Physical, Data-link, Network, Transport",
+            "Physical, Network, Transport, Session",
+            "Physical, Presentation, Transport, Network"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is not a field in the Ethernet Message Packet?",
+        "options": [
+            "Type",
+            "Data",
+            "Pin-code",
+            "Address"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following ISO level is more closely related to the physical communications?",
+        "options": [
+            "Application",
+            "Session",
+            "Network",
+            "Data-link"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is ASP?",
+        "options": [
+            "This is a language.",
+            "This is a scripting language.",
+            "This is a package.",
+            "This is a testing tool."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A box contains six red balls and four green balls. Four balls are selected at random from the box. What is the probability that the two of the selected balls will be red and two will be green?",
+        "options": [
+            "4/10",
+            "3/7",
+            "1/15",
+            "4/7"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If n(A)=115, n(B)=326, n(A-B)=47, then n(A ∪ B) is equal to",
+        "options": [
+            "373",
+            "165",
+            "370",
+            "150"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "(P → Q) ∧ (R → Q) is equivalent to",
+        "options": [
+            "(P ∨ Q) → R",
+            "(P ∨ R) → Q",
+            "(P ∧ R) → Q",
+            "(P ∧ Q) → R"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The number of words that can be formed out of the letters of the word, COMMITTEE is :",
+        "options": [
+            "9!/(2!)^3",
+            "9!/(2!)^2",
+            "9!/2!",
+            "9!"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The maximum number of edges in a n-node undirected graph without selfloops is",
+        "options": [
+            "n^2",
+            "n(n-1)/2",
+            "n-1",
+            "(n+1)(n)/2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The best data structure to check whether an arithmetic expression has balanced parentheses or not is a",
+        "options": [
+            "Queue",
+            "Stack",
+            "Tree",
+            "List"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which one of the following algorithm design technique used in finding all pairs of shortest distances in graph?",
+        "options": [
+            "Dynamic programming",
+            "Back tracking",
+            "Gredy",
+            "Divide and Conquer"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "An m × n matrix A is said to be sparse if",
+        "options": [
+            "many of its elements are nonzero,",
+            "many of its elements are zero.",
+            "many of its elements are unit.",
+            "many of its elements are negative."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which one is not Divide and Conquer algorithm?",
+        "options": [
+            "Merge sort",
+            "Quick sort",
+            "Heap sort",
+            "Binary search"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The best-case analysis of the Quick Sort",
+        "options": [
+            "O(n(n-1)/2)",
+            "O(n^2)",
+            "O(n)",
+            "O(n log_2 n)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Level order transversal of a rooted tree can be done by stacking from the root and performing",
+        "options": [
+            "Pre-order traversal",
+            "In-order traversal",
+            "Pre-order traversal",
+            "Breadth first search"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following are register?",
+        "options": [
+            "Accumulator",
+            "Buffer",
+            "Decoder",
+            "Encoder"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following weights makes the complement operation easier in BCD form?",
+        "options": [
+            "8-4-2-1",
+            "Excess -3",
+            "2-4-2-1",
+            "3-2-1-0"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The simplified form of the Boolean function F=X'Y Z+X Y'Z'+X Y Z+X Y Z' is",
+        "options": [
+            "F=X'Z+X'Y",
+            "F=YZ+XZ'",
+            "F=YZ'+XY'",
+            "F=YZ+X'Y"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A half adder is also known as",
+        "options": [
+            "AND circuit",
+            "NAND circuit",
+            "NOR circuit",
+            "EX-OR circuit"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following does not have 8 data lines?",
+        "options": [
+            "8085",
+            "8086",
+            "8088",
+            "Z-80"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A multiplexer is also known as",
+        "options": [
+            "Coder",
+            "Decoder",
+            "Data selector",
+            "Multi-vibrator"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The seek time of a disk in 30 ms. It rotates at the rate of 30 rotations per second. Each track has a capacity of 300 words. One access time is approximately",
+        "options": [
+            "47 ms",
+            "50 ms",
+            "60 ms",
+            "62 ms"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Flip-flop is a",
+        "options": [
+            "Sequential circuit",
+            "Combinatorial circuit",
+            "Parallel circuit",
+            "Hamottanian circuit"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Instructions in which all the operands are stored in stack are called as",
+        "options": [
+            "Three address instructions",
+            "Two address instructions",
+            "One address instructions",
+            "Zero address instructions"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The word 'formal' in formal languages means",
+        "options": [
+            "the symbols used have welldefined meanings.",
+            "they are unnecessary, in reality.",
+            "Only the form of the strings of symbols is significant.",
+            "as the languages cannot be termed as informal."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A language L is accepted by a Pushdown Automation if and only if it is",
+        "options": [
+            "Context sensitive",
+            "Recursive",
+            "Context free",
+            "Right - Linear"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The lexical analyzer is in which phase of a complier?",
+        "options": [
+            "First",
+            "Second",
+            "Third",
+            "Last"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Compiler can diagnose",
+        "options": [
+            "Grammatical errors only",
+            "Logical errors only",
+            "Grammatical as well as Logical errors",
+            "Neither Grammatical nor Logical errors"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The following program main () { float a=.5, b=.7; if (b<.7) { if (a<.5) { printf (\"TELO\"); } else { printf (\"MILO\"); } } else { printf (\"RENO\"); } } The output is",
+        "options": [
+            "TELO",
+            "MILO",
+            "RENO",
+            "Error"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The average successful search time for sequential search on 'n' items is",
+        "options": [
+            "n/2",
+            "(n-1)/2",
+            "(n+1)/2",
+            "log(n)+1"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following operation is not performed by the computer?",
+        "options": [
+            "Inputting",
+            "Processing",
+            "Controlling",
+            "Understanding"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The number of edges in a complete graph of n vertices is",
+        "options": [
+            "n(n+1)/2",
+            "n(n-1)/2",
+            "n^2",
+            "n"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is a valid Huffman code?",
+        "options": [
+            "0100",
+            "1011",
+            "1100",
+            "1010"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The seek time of a disk is 30 ms. It rotates at the rate of 30 rotations per second. Each track has a capacity of 300 words. The access time is approximately",
+        "options": [
+            "47 ms",
+            "50 ms",
+            "60 ms",
+            "62 ms"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The relation schema. Studentperformance (name, courseno, rollno, grade) has the following dependencies : name, courseno → grade, rollno, courseno → grade. name → rollno, rollno → name. The highest normal form of their relation schema is",
+        "options": [
+            "2NF",
+            "3NF",
+            "BCNF",
+            "4NF"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Given the functional dependencies x → w, x → y, y → z and z → pq. Which of the following does not hold good?",
+        "options": [
+            "x → z",
+            "w → z",
+            "x → wy",
+            "x → w"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The linker copies all library routines used in the program into the executable image, this process is referred to as",
+        "options": [
+            "Assembling",
+            "Dynamic linking",
+            "Static linking",
+            "Compiling"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Suppose that the Aloha Protocol is used to share a 56 kbps satellite channel. Suppose that packets are 1000 bits long. What is the maximum throughput of the system in packet second?",
+        "options": [
+            "15",
+            "10",
+            "12",
+            "14"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A system is using NRZ-1 to transfer 10 mbps data. What are the average signal rate and minimum bandwidth?",
+        "options": [
+            "50 K band, 50 Khz",
+            "500 band, 500 Hz",
+            "500 K band, 500 mHz",
+            "500 K band, 500 KHz"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "To detect a missing token, the monitor watches for a passing token in the ring and maintains a timer equal to the maximum possible token rotation time. This interval equals",
+        "options": [
+            "NumStations × THT + Ring Latency",
+            "NumStations + THT * Ring Latency",
+            "NumStations × THT - Ring Latency",
+            "NumStations - THT * Ring Latency"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Suppose an ATM switch has 16 posts each operating at SONET OC-3 transmission rate 155 mbps. What is the maximum possible throughput of the switch?",
+        "options": [
+            "2.48 Gbps",
+            "3.50 Gbps",
+            "2.01 Gbps",
+            "3.20 Gbps"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A small organization has a class C address for 7 networks each with 24 hosts. What is an appropriate subnet mask :",
+        "options": [
+            "255.255.255.220",
+            "255.255.255.221",
+            "255.255.255.222",
+            "255.255.255.224"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A binary relation R={(1,1),(2,1),(2,2),(2,3),(2,4),(3,1),(3,2),(3,3),(3,4)} on the set A={1,2,3,4} is",
+        "options": [
+            "Reflexive, Symmetric and transitive",
+            "Neither reflexive nor irreflexive but transitive",
+            "Irreflexive, symmetric and transitive",
+            "Irreflexive and antisymmetric"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "It is desired to find the no. of defective chips in a computer chip production unit. Obviously the probability of finding a defective chip does not depend on whether the previous chip was defective or not. The probability distribution is",
+        "options": [
+            "Binomial",
+            "Normal",
+            "Uniform",
+            "Triangular"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If U={1,2,3,4,…,8,9}, A{1,2,3,4}, B={2,4,6,8} and C={3,4,5,6}, then (A ∪ B) is",
+        "options": [
+            "{5,7,9}",
+            "{1,2,3,4,6,8}",
+            "{2,4}",
+            "{0}"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following proposition is a tautology?",
+        "options": [
+            "(p ∨ q) → p",
+            "p ∨ (q → p)",
+            "p ∨ (p → q)",
+            "p → (p → q)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The running time of an algorithm is represented by the following recurrence relation : T(n)={ T[n/3] n≤3 +cn otherwise Which one of the following represents the time complexity of the algorithm?",
+        "options": [
+            "θ(n)",
+            "θ(n log n)",
+            "θ(n^2)",
+            "θ(n^2 log n)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A circularly linked list is used to represent a queue. A single variable P is used to access the queue. To which node should P point, such that both the operations of enqueue (insert) and dequeue (delete) can be performed in constant time?",
+        "options": [
+            "Rear mode",
+            "Front mode",
+            "Not possible with a single point",
+            "Node next to front"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following list of nodes corresponds to a post order traversal of the binary tree in the figure shown?",
+        "options": [
+            "DHEBIFJGCA",
+            "ABDEHCFIGL",
+            "DBEHIFLJGA",
+            "ABCDEFGHIJ"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Consider the following graph : Which one of the following is the sequence of the edges added to the minimum spanning tree using Kruskal's algorithm?",
+        "options": [
+            "(b,e) (a,c) (e,f) (b,c) (f,g) (c,d)",
+            "(b,e) (a,c) (e,f) (a,b) (d,f) (c,f)",
+            "(b,e) (a,c) (c,f) (e,g) (g,f) (a,b)",
+            "(b,e) (a,c) (c,f) (d,e) (d,f) (d,b)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A four variable Boolean function is given by F(w,x,y,z)=Σ(1,2,3,4,5,6,7,8,9,10,11,12,13)+Σd(0,14,15) the simplified form of this function is",
+        "options": [
+            "W",
+            "0",
+            "1",
+            "WXY + W'XY"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Postfix expression for (300+23)*(43-21)/(84+7) is",
+        "options": [
+            "847+4321*30023+",
+            "4321-*7+/30023847",
+            "300+2343-* /847",
+            "30023+4321-*847+/"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Using Quine - Mcclusky method, one of the prime implicants of the function F(W,X,Y,Z)=Σm(7,9,12,13,14,15)+Σd(4,11) is",
+        "options": [
+            "WXY",
+            "X'Y",
+            "XYZ",
+            "W'YZ"
+        ],
+        "answer": 2
+    }
+]

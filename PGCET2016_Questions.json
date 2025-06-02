@@ -1,0 +1,662 @@
+[
+    {
+        "question": "The value of k in LR(k) cannot be",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "None of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Backtracking is the problem associated with",
+        "options": [
+            "Bottom up parsing",
+            "Top down parsing",
+            "Both (A) and (B)",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "YACC stands for",
+        "options": [
+            "Yet another compiler-constructor",
+            "Yet another Compiler-compiler",
+            "Both (A) and (B)",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Three persons enter a Railway compartment. If there are 5 seats vacant, in how many ways can they take these seats?",
+        "options": [
+            "60",
+            "20",
+            "15",
+            "125"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In the group, G={2,4,6,8} under multiplication modulo 10, the identity element is",
+        "options": [
+            "6",
+            "8",
+            "4",
+            "2"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Let S={{Ø},1,{2,3}}. The cardinality of Power set of S is",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The field that contains a segment index or an internal index is called",
+        "options": [
+            "Target datum",
+            "Target offset",
+            "Segment field",
+            "Fix data"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The 'turn-around' time of a user job is the",
+        "options": [
+            "Time since its submission to the time its results become available.",
+            "Time duration for which the CPU is allotted to the job.",
+            "Total time taken to execute the job.",
+            "Time taken for the job to move from assembly phase to completion phase."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The given expression y=((AB'+ABC)'+A(B+AB'))' can be reduced to",
+        "options": [
+            "A",
+            "0",
+            "1+AB'+B",
+            "(AB)'"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The output of the logic gate in the figure is given by",
+        "options": [
+            "0",
+            "1",
+            "A",
+            "A'"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "How many full adders are required to construct an m-bit parallel adder?",
+        "options": [
+            "m",
+            "m-1",
+            "m/2",
+            "m+1"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A 4-bit carry look ahead adder, which adds two 4-bit numbers, is designed using AND, OR, NOT, NAND, NOR gates only. Assuming that all the inputs are available in both complemented and uncomplemented forms and the delay of each gate is one time unit, what is the overall propagation delay of the adder? Assume that the carry network has been implemented using two-level AND-OR logic.",
+        "options": [
+            "4 time units",
+            "6 time units",
+            "10 time units",
+            "12 time units"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A switch-tail ring counter is made by using a single D-FF. The resulting circuit is",
+        "options": [
+            "SR flip-flop",
+            "JK flip-flop",
+            "T Flip-flop",
+            "D flip-flop"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Q × (Σ U ∈) → Q is transition function of",
+        "options": [
+            "Deterministic Finite Automata",
+            "Non-deterministic Finite Automata",
+            "Epsilon-NFA",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The stack is used in :",
+        "options": [
+            "Deterministic Finite Automata",
+            "Pushdown Automata",
+            "Turing Machine",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The root node of derivation tree is mapped on to",
+        "options": [
+            "Intermediate vertex",
+            "Set of Terminals of Grammar",
+            "Start symbol of the grammar",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The grammar to generate L={a^n b^n : n ≥ 0} is",
+        "options": [
+            "S → aSb | ab",
+            "S → aSb | C",
+            "S → aSbb | C",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "For every Pushdown automata, there exists an equivalent",
+        "options": [
+            "Regular Language",
+            "Context sensitive language",
+            "Context Free Language",
+            "Recursively Enumerable Language"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How many substrings of different lengths (non-zero) can be formed from a character string of length n ?",
+        "options": [
+            "n",
+            "n^2",
+            "2^n",
+            "n(n+1)/2"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When a variable of data type double is converted into float, then",
+        "options": [
+            "Rounding takes place",
+            "Truncation takes place",
+            "the lower order bits are dropped",
+            "none of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Consider the following function: int unknown(int n) { int i, j, k=0; for (i=n/2; i<=n; i++) { for (j=2; j<=n; j=j*2) { k=k+n/2; } } return k; }",
+        "options": [
+            "Θ(n^2 log n)",
+            "Θ(n^3 log n)",
+            "Θ(n^3)",
+            "Θ(n^2)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the value of F(4) using the following procedure? function F(k : integer) : integer; begin if (k<3) then F:=k else F:=F(k-1)*F(k-2)+F(k-3) end;",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Assume 5 buffer pages are available to sort a file of 105 pages. The cost of sorting using m-way merge sort is :",
+        "options": [
+            "206",
+            "618",
+            "840",
+            "926"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The maximum number of edges in a regular graph of degree d and n vertices is",
+        "options": [
+            "Maximum of n, d",
+            "N+d",
+            "Nd",
+            "Nd/2"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following remarks about Tree Indexing is true?",
+        "options": [
+            "It is an m-ary tree.",
+            "It is a search tree of order m.",
+            "Successful searches should terminate in leaf nodes.",
+            "Unsuccessful searches may terminate at any level of the tree structure."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What should be the labels of nodes marked 1 and 2 if the breadth first traversal yields the list A B C D E ?",
+        "options": [
+            "D and E",
+            "E and D",
+            "Unpredictable",
+            "None of the above"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If the depth first search of the graph yields the list A B C D E, then the labels of the nodes marked 1 and 2 will be",
+        "options": [
+            "E and D",
+            "D and E",
+            "Unpredictable",
+            "None of the above"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "For merging two sorted lists of sizes m and n into a sorted list of size m+n, we require comparisons of",
+        "options": [
+            "O(m)",
+            "O(n)",
+            "O(m+n)",
+            "O(log(m)+log(n))"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A hash function randomly distributes records one by one in a space that can hold x number of records. The probability that the m^th record is the first record to result in collision is :",
+        "options": [
+            "(x-1)(x-2)…(x-(m-2)(m-1))/x^(m-1)",
+            "(x-1)(x-2)…(x-(m-1)(m-1))/x^(m-1)",
+            "(x-1)(x-2)…(x-(m-2)(m-1))/x^m",
+            "(x-1)(x-2)…(x-(m-1)(m-1))/x^m"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is responsible for approving standards and allocating resources in the Internet?",
+        "options": [
+            "Internet Architecture Board (IAB)",
+            "Internet Engineering Task Force (IETF)",
+            "Inter NIC",
+            "None of the above"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is true when describing a multicast address ?",
+        "options": [
+            "Packets addressed to a unicast address are delivered to a single interface.",
+            "Packets are delivered to all interfaces identified by the address. This is also called a one-to-many address.",
+            "Identifies multiple interfaces and is only delivered to one address. This address can also be called one-to-one-of-many.",
+            "These addresses are meant for non-routing purposes, but they are almost globally unique so it is unlikely they will have an address overlap."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following allows a router to respond to an ARP request that is intended for a remote host?",
+        "options": [
+            "Gateway DP",
+            "Reverse ARP (RARP)",
+            "Proxy ARP",
+            "Inverse ARP (IARP)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If you use either Telnet or FTP, which is the highest layer you are using to transmit data?",
+        "options": [
+            "Application",
+            "Presentation",
+            "Session",
+            "Transport"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following protocols uses both TCP and UDP ?",
+        "options": [
+            "FTP",
+            "SMTP",
+            "Telnet",
+            "DNS"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What protocol is used to find the hardware address of a local device?",
+        "options": [
+            "RARP",
+            "ARP",
+            "IP",
+            "ICMP"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the address range of a Class B network address in binary?",
+        "options": [
+            "01xxxxxx",
+            "0xxxxxxx",
+            "10xxxxxx",
+            "110xxxxx"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "For a pipelined CPU with a single ALU, consider the following situations : 1. The J+1^th instruction uses the result of the J^th instruction as an operand. 2. The execution of a conditional jump instruction. 3. The J^th and J+1^th instructions require the ALU at the same time. Which of the above can cause a hazard?",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "3 only",
+            "All the three"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is incorrect? 1. In the programmed I/O method, the CPU waits for the I/O devices. 2. In the Interrupt driven I/O device informs the CPU of its ready status via an interrupt. 3. In DMA, the CPU sends its I/O to the DMA controller which manages the entire transaction.",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "1, 2 and 3",
+            "None of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following instructions will not be there in a memory-mapped I/O system? 1. LDA 2. IN 3. ADD 4. OUT",
+        "options": [
+            "1 only",
+            "2 and 4",
+            "4 only",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following statement is incorrect about Program Counter (PC)? 1. PC does not affect instruction sequencing. 2. During branch operation, Program Counter points to the memory from which instruction is to be fetched and executes.",
+        "options": [
+            "1",
+            "2",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A memory system of size 16k bytes is required to be designed using memory chips which have 12 address lines and 4 data lines each. The number of such chips required to design the memory system is",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The advantage of panic mode recovery is",
+        "options": [
+            "It is simple to implement",
+            "It never gets into infinite loop",
+            "Both (A) and (B)",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "An intermediate code form is",
+        "options": [
+            "Post fix notation",
+            "Syntax trees",
+            "Three address code",
+            "All of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Routine is not loaded until it is called. All routines are kept on disk in a relocatable load format. The main program is loaded into memory & is executed. This type of loading is called",
+        "options": [
+            "Static loading",
+            "Dynamic loading",
+            "Dynamic linking",
+            "Overlays"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A Critical region is",
+        "options": [
+            "One which is enclosed by a pair of P and V operations on Semaphores.",
+            "A Program Segment that has not been proved bug free.",
+            "A Program segment that often causes unexpected system crashes.",
+            "A Program segment where shared resources are accessed."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If the Disk head is located initially at 32, find the number of disk moves required with FCFS if the disk queue of I/O blocks requests are 98, 37, 14, 124, 65, 67.",
+        "options": [
+            "310",
+            "324",
+            "315",
+            "321"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the logic function performed by the circuit shown:",
+        "options": [
+            "Exclusive OR",
+            "Exclusive NOR",
+            "NAND",
+            "NOR"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "[(A+A'B)(A+A'B')][(CD+C'D')+(C ⊕ D)]=",
+        "options": [
+            "B",
+            "A",
+            "0",
+            "1"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "(34.4)_8 × (23.4)_8 evaluates to",
+        "options": [
+            "(1053.6)_8",
+            "(1053.2)_8",
+            "(1024.2)_8",
+            "None of the above"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "For the initial state of 000, the function performed by the arrangement of J-K flip-flops in the figure.",
+        "options": [
+            "Shift register",
+            "Mod-3 Counter",
+            "Mod-6 Counter",
+            "Mod-2 Counter"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The C language is",
+        "options": [
+            "A context free language",
+            "A context sensitive language",
+            "A Regular language",
+            "Parsable fully only by a Turing Machine"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following statements is TRUE?",
+        "options": [
+            "Union of two recursive languages is recursive.",
+            "The language {0^n : n is prime} is not regular.",
+            "Regular Languages are closed under infinite Union.",
+            "Both (A) and (B)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Let G be a non-planar graph with the minimum possible number of edges. Then G has",
+        "options": [
+            "9 edges and 5 vertices",
+            "9 edges and 6 vertices",
+            "10 edges and 5 vertices",
+            "10 edges and 6 vertices"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The breadth first search algorithm has been implemented using the queue data structure. One possible order of visiting the nodes of the following graph is",
+        "options": [
+            "MNOPQR",
+            "NQMPOR",
+            "QMNPRO",
+            "QMNPOR"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A Priority-Queue is implemented as a Max-Heap. Initially, it has 5 elements. The level-order traversal of the heap is given below : 10, 8, 5, 3, 2. Two new elements 1 and 7 are inserted in the heap in that order. The level-order traversal of the heap after the insertion of the elements is",
+        "options": [
+            "10,8,7,5,3,2,1",
+            "10,8,7,2,3,1,2",
+            "10,8,7,1,2,3,5",
+            "10,8,7,3,2,1,5"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which statement is true regarding classless routing protocols? (1) The use of discontiguous networks is not allowed. (2) The use of variable length subnet masks is permitted. (3) RIPv1 is a classless routing protocol. (4) IGRP supports classless routing within the same autonomous system. (5) RIPv2 supports classless routing.",
+        "options": [
+            "1, 3 and 5",
+            "3 and 4",
+            "2 and 5",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following types of connections can use full duplex? 1. Hub to hub 2. Switch to switch 3. Host to host 4. Switch to hub 5. Switch to host",
+        "options": [
+            "1, 2 and 4",
+            "3 and 4",
+            "3 and 5",
+            "2, 3 and 5"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The network address of 172.16.0.0/19 provides how many subnets and hosts?",
+        "options": [
+            "7 subnets, 30 hosts each",
+            "8 subnets, 8,190 hosts each",
+            "8 subnets, 2,046 hosts each",
+            "7 subnets, 2,046 hosts each"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Consider the following instructions : 1. PUSH PSW 2. CALL ADDR 3. XTHL 4. RST n The stack pointer will be affected by the",
+        "options": [
+            "1",
+            "1 and 2 only",
+            "1, 2 and 4 only",
+            "1, 2 and 3 only"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In serial data transmission, every byte of data is padded with '0' in the beginning and one or two '1's at the end of byte because",
+        "options": [
+            "Receiver is to be synchronized for byte reception",
+            "Receiver recovers the lost '0's and '1's from padded bits",
+            "Padded bits are useful in parity computation",
+            "None of the above"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In Reverse Polish notation, expression A*B+C*D is written as",
+        "options": [
+            "AB*CD*+",
+            "A*BCD*+*",
+            "AB*CD+",
+            "A*BC*D+"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is correct HTML for making a hyperlink?",
+        "options": [
+            "<a url=\"http://www.company.com\">company.com</a>",
+            "<a>http://www.company.com</a>",
+            "<a href=\"http://www.company.com\">company</a>",
+            "<a name=\"http://company.com\">company.com</a>"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If the lattice (C, ≤) is a complemented chain, then",
+        "options": [
+            "|C| ≤ 1",
+            "|C| ≤ 2",
+            "|C| > 1",
+            "C does not exist"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Suppose a license plate contains Two letters followed by three digits with the first digit is not zero. How many different license plates can be printed?",
+        "options": [
+            "608000",
+            "608200",
+            "608400",
+            "608600"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In a foot ball championship, 153 matches were played. Every team played one match with each other. The number of teams participating in the championship is",
+        "options": [
+            "17",
+            "18",
+            "9",
+            "100"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Back tracking is a problem associated with",
+        "options": [
+            "Top down parser",
+            "Bottom up parser",
+            "Both (A) and (B)",
+            "None"
+        ],
+        "answer": 0
+    }
+]

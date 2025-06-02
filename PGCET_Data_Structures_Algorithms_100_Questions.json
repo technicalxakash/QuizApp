@@ -1,0 +1,462 @@
+[
+    {
+        "question": "Which of the following is an abstract data type?",
+        "options": ["Array", "Stack", "Integer", "Pointer"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of push operation in a stack implemented using an array?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 0
+    },
+    {
+        "question": "Which data structure uses FIFO (First In, First Out) order?",
+        "options": ["Stack", "Queue", "Heap", "Binary Tree"],
+        "answer": 1
+    },
+    {
+        "question": "In a singly linked list, what is the time complexity to delete the last node?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which operation is not typically supported by a set data structure?",
+        "options": ["Union", "Intersection", "Pop", "Append"],
+        "answer": 3
+    },
+    {
+        "question": "What is the worst-case time complexity of searching in a binary search tree?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 2
+    },
+    {
+        "question": "Which data structure is used to implement a priority queue efficiently?",
+        "options": ["Array", "Linked List", "Heap", "Stack"],
+        "answer": 2
+    },
+    {
+        "question": "In a graph, what is the time complexity of breadth-first search (BFS) using an adjacency list?",
+        "options": ["O(V)", "O(V + E)", "O(V^2)", "O(E^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which traversal visits the root node first in a binary tree?",
+        "options": ["Inorder", "Preorder", "Postorder", "Level order"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of inserting a key into a hash table with chaining?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 0
+    },
+    {
+        "question": "Which sorting algorithm has the best average-case time complexity?",
+        "options": ["Bubble Sort", "Quick Sort", "Selection Sort", "Insertion Sort"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of binary search on a sorted array?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which design technique is used in Kruskal’s algorithm for minimum spanning tree?",
+        "options": ["Greedy", "Dynamic Programming", "Divide and Conquer", "Backtracking"],
+        "answer": 0
+    },
+    {
+        "question": "What is the worst-case time complexity of merge sort?",
+        "options": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+        "answer": 1
+    },
+    {
+        "question": "Which problem is solved using dynamic programming?",
+        "options": ["Binary Search", "Knapsack Problem", "Depth-First Search", "Prim’s Algorithm"],
+        "answer": 1
+    },
+    {
+        "question": "What does O(n) represent in asymptotic analysis?",
+        "options": ["Constant time", "Linear time", "Quadratic time", "Logarithmic time"],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is an NP-complete problem?",
+        "options": ["Sorting", "Binary Search", "Traveling Salesman Problem", "BFS"],
+        "answer": 2
+    },
+    {
+        "question": "In a stack, which operation removes the top element?",
+        "options": ["Push", "Pop", "Peek", "Enqueue"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of enqueue operation in a queue using an array?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 0
+    },
+    {
+        "question": "Which data structure allows duplicates but not in a sorted order?",
+        "options": ["Set", "List", "Binary Search Tree", "Heap"],
+        "answer": 1
+    },
+    {
+        "question": "What is the height of a balanced binary search tree with n nodes?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which algorithm finds the shortest path in a weighted graph?",
+        "options": ["BFS", "DFS", "Dijkstra’s Algorithm", "Kruskal’s Algorithm"],
+        "answer": 2
+    },
+    {
+        "question": "Which traversal visits nodes level by level in a tree?",
+        "options": ["Inorder", "Preorder", "Postorder", "Level order"],
+        "answer": 3
+    },
+    {
+        "question": "What is the average-case time complexity of quick sort?",
+        "options": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+        "answer": 1
+    },
+    {
+        "question": "Which data structure uses a hash function to store elements?",
+        "options": ["Stack", "Queue", "Hash Table", "Binary Tree"],
+        "answer": 2
+    },
+    {
+        "question": "Which algorithm uses divide and conquer to sort elements?",
+        "options": ["Bubble Sort", "Merge Sort", "Insertion Sort", "Selection Sort"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of finding a minimum spanning tree using Prim’s algorithm?",
+        "options": ["O(V)", "O(V + E)", "O(V^2)", "O(E log V)"],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is a property of a binary search tree?",
+        "options": ["Left subtree has larger values", "Right subtree has smaller values", "Left subtree has smaller values", "No duplicates allowed"],
+        "answer": 2
+    },
+    {
+        "question": "What is the time complexity of searching in a balanced binary search tree?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which algorithm is used to find connected components in a graph?",
+        "options": ["Dijkstra’s", "Kruskal’s", "DFS", "Prim’s"],
+        "answer": 2
+    },
+    {
+        "question": "What is the space complexity of an in-place sorting algorithm?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 0
+    },
+    {
+        "question": "Which data structure is best for implementing a LIFO system?",
+        "options": ["Queue", "Stack", "Heap", "List"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of inserting an element in a max heap?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which algorithm finds the shortest path in an unweighted graph?",
+        "options": ["BFS", "DFS", "Dijkstra’s", "Bellman-Ford"],
+        "answer": 0
+    },
+    {
+        "question": "Which traversal visits the left subtree, root, then right subtree?",
+        "options": ["Inorder", "Preorder", "Postorder", "Level order"],
+        "answer": 0
+    },
+    {
+        "question": "What is the worst-case time complexity of bubble sort?",
+        "options": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+        "answer": 2
+    },
+    {
+        "question": "Which technique is used in the 0/1 knapsack problem?",
+        "options": ["Greedy", "Dynamic Programming", "Divide and Conquer", "Backtracking"],
+        "answer": 1
+    },
+    {
+        "question": "What does Ω(n) represent in asymptotic analysis?",
+        "options": ["Upper bound", "Lower bound", "Tight bound", "Average bound"],
+        "answer": 1
+    },
+    {
+        "question": "Which problem is NP-complete?",
+        "options": ["Binary Search", "Knapsack Problem", "Merge Sort", "BFS"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of dequeuing in a circular queue?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 0
+    },
+    {
+        "question": "Which data structure does not allow duplicate elements?",
+        "options": ["List", "Set", "Array", "Queue"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of deleting a node in a binary search tree?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 2
+    },
+    {
+        "question": "Which algorithm uses a greedy approach for finding a minimum spanning tree?",
+        "options": ["Dijkstra’s", "Kruskal’s", "DFS", "BFS"],
+        "answer": 1
+    },
+    {
+        "question": "What is the average-case time complexity of insertion sort?",
+        "options": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+        "answer": 2
+    },
+    {
+        "question": "Which traversal visits the left subtree, right subtree, then root?",
+        "options": ["Inorder", "Preorder", "Postorder", "Level order"],
+        "answer": 2
+    },
+    {
+        "question": "What is the time complexity of searching in a hash table with no collisions?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 0
+    },
+    {
+        "question": "Which algorithm uses divide and conquer for matrix multiplication?",
+        "options": ["Kruskal’s", "Strassen’s", "Dijkstra’s", "Prim’s"],
+        "answer": 1
+    },
+    {
+        "question": "What is the space complexity of merge sort?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which data structure is used for implementing recursion?",
+        "options": ["Queue", "Stack", "Heap", "Graph"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of heapify operation in a heap?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which algorithm finds the shortest path in a graph with negative weights?",
+        "options": ["Dijkstra’s", "Bellman-Ford", "Kruskal’s", "Prim’s"],
+        "answer": 1
+    },
+    {
+        "question": "Which traversal is used to get a sorted order in a binary search tree?",
+        "options": ["Inorder", "Preorder", "Postorder", "Level order"],
+        "answer": 0
+    },
+    {
+        "question": "What is the worst-case time complexity of selection sort?",
+        "options": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+        "answer": 2
+    },
+    {
+        "question": "Which technique is used in Huffman coding?",
+        "options": ["Greedy", "Dynamic Programming", "Divide and Conquer", "Backtracking"],
+        "answer": 0
+    },
+    {
+        "question": "What does Θ(n) represent in asymptotic analysis?",
+        "options": ["Upper bound", "Lower bound", "Tight bound", "Average bound"],
+        "answer": 2
+    },
+    {
+        "question": "Which problem is NP-complete?",
+        "options": ["Sorting", "Graph Coloring", "Binary Search", "DFS"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of pushing an element onto a stack using a linked list?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 0
+    },
+    {
+        "question": "Which data structure is best for implementing a FIFO system?",
+        "options": ["Stack", "Queue", "Heap", "Set"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of inserting a node at the beginning of a linked list?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 0
+    },
+    {
+        "question": "Which algorithm is used to detect a cycle in a graph?",
+        "options": ["BFS", "DFS", "Dijkstra’s", "Prim’s"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of building a binary heap from an array?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 2
+    },
+    {
+        "question": "Which algorithm uses dynamic programming for sequence alignment?",
+        "options": ["Needleman-Wunsch", "Kruskal’s", "Prim’s", "Dijkstra’s"],
+        "answer": 0
+    },
+    {
+        "question": "What is the time complexity of searching in an unsorted array?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 2
+    },
+    {
+        "question": "Which traversal visits nodes in a graph depth-wise?",
+        "options": ["BFS", "DFS", "Level order", "Inorder"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of Kruskal’s algorithm using a disjoint set?",
+        "options": ["O(V)", "O(E log E)", "O(V^2)", "O(E^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which sorting algorithm is stable?",
+        "options": ["Quick Sort", "Heap Sort", "Merge Sort", "Selection Sort"],
+        "answer": 2
+    },
+    {
+        "question": "What is the time complexity of deleting the minimum element from a min heap?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which algorithm uses divide and conquer for finding the closest pair of points?",
+        "options": ["Kruskal’s", "Strassen’s", "Closest Pair Algorithm", "Dijkstra’s"],
+        "answer": 2
+    },
+    {
+        "question": "What is the space complexity of quick sort in the average case?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 2
+    },
+    {
+        "question": "Which data structure is used to implement a dictionary?",
+        "options": ["Stack", "Queue", "Hash Table", "Array"],
+        "answer": 2
+    },
+    {
+        "question": "What is the time complexity of finding the height of a binary tree?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 2
+    },
+    {
+        "question": "Which algorithm is used for topological sorting in a DAG?",
+        "options": ["BFS", "DFS", "Dijkstra’s", "Prim’s"],
+        "answer": 1
+    },
+    {
+        "question": "What is the worst-case time complexity of heap sort?",
+        "options": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+        "answer": 1
+    },
+    {
+        "question": "Which technique is used in the activity selection problem?",
+        "options": ["Greedy", "Dynamic Programming", "Divide and Conquer", "Backtracking"],
+        "answer": 0
+    },
+    {
+        "question": "What does O(n^2) represent in asymptotic analysis?",
+        "options": ["Linear time", "Quadratic time", "Logarithmic time", "Constant time"],
+        "answer": 1
+    },
+    {
+        "question": "Which problem is NP-complete?",
+        "options": ["Sorting", "Clique Problem", "Binary Search", "BFS"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of accessing an element in an array?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 0
+    },
+    {
+        "question": "Which data structure is used for breadth-first search?",
+        "options": ["Stack", "Queue", "Heap", "Set"],
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of inserting a node in a balanced binary search tree?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which algorithm finds the minimum spanning tree in a dense graph efficiently?",
+        "options": ["Kruskal’s", "Prim’s", "Dijkstra’s", "BFS"],
+        "answer": 1
+    },
+    {
+        "question": "What is the average-case time complexity of bubble sort?",
+        "options": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+        "answer": 2
+    },
+    {
+        "question": "Which traversal visits the root node last in a binary tree?",
+        "options": ["Inorder", "Preorder", "Postorder", "Level order"],
+        "answer": 2
+    },
+    {
+        "question": "What is the time complexity of resolving a collision in a hash table using chaining?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which algorithm uses divide and conquer for binary search?",
+        "options": ["Merge Sort", "Quick Sort", "Binary Search", "Heap Sort"],
+        "answer": 2
+    },
+    {
+        "question": "What is the space complexity of depth-first search in a graph?",
+        "options": ["O(1)", "O(V)", "O(V + E)", "O(V^2)"],
+        "answer": 1
+    },
+    {
+        "question": "Which data structure is used to implement a min-priority queue?",
+        "options": ["Stack", "Queue", "Min Heap", "Max Heap"],
+        "answer": 2
+    },
+    {
+        "question": "What is the time complexity of finding the shortest path using Bellman-Ford?",
+        "options": ["O(V)", "O(V + E)", "O(VE)", "O(V^2)"],
+        "answer": 2
+    },
+    {
+        "question": "Which traversal is used to copy a binary tree?",
+        "options": ["Inorder", "Preorder", "Postorder", "Level order"],
+        "answer": 1
+    },
+    {
+        "question": "What is the worst-case time complexity of insertion sort?",
+        "options": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+        "answer": 2
+    },
+    {
+        "question": "Which technique is used in the coin change problem?",
+        "options": ["Greedy", "Dynamic Programming", "Divide and Conquer", "Backtracking"],
+        "answer": 1
+    },
+    {
+        "question": "What does Ω(log n) represent in asymptotic analysis?",
+        "options": ["Upper bound", "Lower bound", "Tight bound", "Average bound"],
+        "answer": 1
+    },
+    {
+        "question": "Which problem is NP-complete?",
+        "options": ["Sorting", "Vertex Cover", "Binary Search", "DFS"],
+        "answer": 1
+    }
+]
